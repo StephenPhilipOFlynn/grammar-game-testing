@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>English Quiz App</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f5f7fa;
+      margin: 0;
+      padding: 0;
+      text-align: center;
+    }
+    header {
+      background-color: #34495e;
+      color: white;
+      padding: 1rem;
+    }
+    main {
+      margin-top: 50px;
+    }
+    button {
+      background-color: #2ecc71;
+      border: none;
+      padding: 15px 30px;
+      font-size: 1.2rem;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+    button:hover {
+      background-color: #27ae60;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Welcome to the English Quiz App</h1>
+  </header>
+
+  <main>
+    <p>Test your intermediate English skills with fun multiple-choice questions!</p>
+    <button onclick="startQuiz()">Start Quiz</button>
+  </main>
+
+  <script>
+    function startQuiz() {
+      window.location.href = "quiz.html";
+    }
+  </script>
+</body>
+</html>
