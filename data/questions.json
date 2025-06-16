@@ -1,0 +1,114 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which sentence is correct?",
+      "options": [
+        "She don't like chocolate.",
+        "She doesn't like chocolate.",
+        "She doesn't likes chocolate.",
+        "She not like chocolate."
+      ],
+      "answer": "She doesn't like chocolate."
+    },
+    {
+      "id": 2,
+      "question": "Choose the correct question form:",
+      "options": [
+        "You went to the party?",
+        "Did you went to the party?",
+        "Did you go to the party?",
+        "Went you to the party?"
+      ],
+      "answer": "Did you go to the party?"
+    },
+    {
+      "id": 3,
+      "question": "Select the correct use of the present perfect:",
+      "options": [
+        "I have finished my homework.",
+        "I am finished my homework.",
+        "I do finished my homework.",
+        "I has finished my homework."
+      ],
+      "answer": "I have finished my homework."
+    },
+    {
+      "id": 4,
+      "question": "Choose the correct sentence:",
+      "options": [
+        "I didn’t saw her yesterday.",
+        "I don’t saw her yesterday.",
+        "I didn’t see her yesterday.",
+        "I not saw her yesterday."
+      ],
+      "answer": "I didn’t see her yesterday."
+    },
+    {
+      "id": 5,
+      "question": "Choose the best word: He’s very ____ about his exam results.",
+      "options": [
+        "anxious",
+        "envy",
+        "aggressive",
+        "lazy"
+      ],
+      "answer": "anxious"
+    },
+    {
+      "id": 6,
+      "question": "Choose the correct collocation: I’m not very good ____ cooking.",
+      "options": [
+        "in",
+        "for",
+        "at",
+        "on"
+      ],
+      "answer": "at"
+    },
+    {
+      "id": 7,
+      "question": "Choose the correct expression: I’m looking forward ____ you soon.",
+      "options": [
+        "see",
+        "seeing",
+        "to see",
+        "to seeing"
+      ],
+      "answer": "to seeing"
+    },
+    {
+      "id": 8,
+      "question": "Choose the correct article usage:",
+      "options": [
+        "He is a honest man.",
+        "He is an honest man.",
+        "He is the honest man.",
+        "He is honest man."
+      ],
+      "answer": "He is an honest man."
+    },
+    {
+      "id": 9,
+      "question": "What do you say when you don’t understand?",
+      "options": [
+        "Could you repeat that, please?",
+        "Please go.",
+        "I don’t like this.",
+        "Talk again."
+      ],
+      "answer": "Could you repeat that, please?"
+    },
+    {
+      "id": 10,
+      "question": "Choose the correct sentence:",
+      "options": [
+        "I did an appointment.",
+        "I made an appointment.",
+        "I fixed an appointment.",
+        "I build an appointment."
+      ],
+      "answer": "I made an appointment."
+    }
+  ]
+}
