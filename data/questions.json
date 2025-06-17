@@ -109,6 +109,117 @@
         "I build an appointment."
       ],
       "answer": "I made an appointment."
+    },
+    {
+      "id": 11,
+      "question": "Choose the correct sentence.",
+      "options": [
+        "I have visited Paris last year.",
+        "I visited Paris last year.",
+        "I have visit Paris last year.",
+        "I was visit Paris last year."
+      ],
+      "answer": "I visited Paris last year."
+    },
+    {
+      "id": 12,
+      "question": "Which word is a synonym for 'angry'?",
+      "options": [
+        "furious",
+        "happy",
+        "tired",
+        "bored"
+      ],
+      "answer": "furious"
+    },
+    {
+      "id": 13,
+      "question": "Choose the correct form: 'If I _____ enough money, I would travel the world.'",
+      "options": [
+        "have",
+        "had",
+        "will have",
+        "has"
+      ],
+      "answer": "had"
+    },
+    {
+      "id": 14,
+      "question": "Which sentence is in the passive voice?",
+      "options": [
+        "The chef cooked dinner.",
+        "Dinner was cooked by the chef.",
+        "The chef was cooking dinner.",
+        "The chef has cooked dinner."
+      ],
+      "answer": "Dinner was cooked by the chef."
+    },
+    {
+      "id": 15,
+      "question": "Which sentence uses the present perfect tense?",
+      "options": [
+        "She eats lunch.",
+        "She ate lunch.",
+        "She has eaten lunch.",
+        "She will eat lunch."
+      ],
+      "answer": "She has eaten lunch."
+    },
+    {
+      "id": 16,
+      "question": "Choose the correct question form.",
+      "options": [
+        "Where you are going?",
+        "Where are you going?",
+        "Where going are you?",
+        "Where is going you?"
+      ],
+      "answer": "Where are you going?"
+    },
+    {
+      "id": 17,
+      "question": "What is the correct preposition? 'She is afraid ___ spiders.'",
+      "options": [
+        "with",
+        "by",
+        "of",
+        "for"
+      ],
+      "answer": "of"
+    },
+    {
+      "id": 18,
+      "question": "Choose the correct sentence.",
+      "options": [
+        "There is too much people here.",
+        "There are too much people here.",
+        "There are too many people here.",
+        "There is too many people here."
+      ],
+      "answer": "There are too many people here."
+    },
+    {
+      "id": 19,
+      "question": "Which sentence shows a first conditional?",
+      "options": [
+        "If it rains, we will cancel the picnic.",
+        "If it rained, we would cancel the picnic.",
+        "If it had rained, we would have cancelled the picnic.",
+        "If it raining, we will cancel the picnic."
+      ],
+      "answer": "If it rains, we will cancel the picnic."
+    },
+    {
+      "id": 20,
+      "question": "Choose the correct phrasal verb: 'She _____ up smoking last year.'",
+      "options": [
+        "gave",
+        "gave out",
+        "gave away",
+        "gave up"
+      ],
+      "answer": "gave up"
     }
   ]
 }
+
