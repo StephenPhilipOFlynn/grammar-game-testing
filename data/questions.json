@@ -219,6 +219,105 @@
         "gave up"
       ],
       "answer": "gave up"
+    },
+    {
+      "id": 21,
+      "question": "You're coming to the party tonight, ___?",
+      "options": [
+        "are you",
+        "won't you",
+        "isn't it",
+        "aren't you"
+      ],
+      "answer": "aren't you"
+    },
+    {
+      "id": 22,
+      "question": "She doesn’t like coffee, ___?",
+      "options": [
+        "does she",
+        "is she",
+        "doesn't she",
+        "did she"
+      ],
+      "answer": "does she"
+    },
+    {
+      "id": 23,
+      "question": "Let’s go for a walk, ___?",
+      "options": [
+        "shall we",
+        "have we",
+        "don’t we",
+        "won’t we"
+      ],
+      "answer": "shall we"
+    },
+    {
+      "id": 24,
+      "question": "By the time you arrive, I ___ the report.",
+      "options": [
+        "have finished",
+        "will finish",
+        "will have finished",
+        "finished"
+      ],
+      "answer": "will have finished"
+    },
+    {
+      "id": 25,
+      "question": "They ___ the bridge by the end of the year.",
+      "options": [
+        "will be building",
+        "will have built",
+        "are going to build",
+        "have built"
+      ],
+      "answer": "will have built"
+    },
+    {
+      "id": 26,
+      "question": "I ___ for two hours when she finally arrived.",
+      "options": [
+        "have waited",
+        "had been waiting",
+        "waited",
+        "was waiting"
+      ],
+      "answer": "had been waiting"
+    },
+    {
+      "id": 27,
+      "question": "He ___ English for six months now.",
+      "options": [
+        "has studied",
+        "is studying",
+        "has been studying",
+        "studied"
+      ],
+      "answer": "has been studying"
+    },
+    {
+      "id": 28,
+      "question": "I need to ___ some Portuguese before my trip to Brazil.",
+      "options": [
+        "look after",
+        "pick up",
+        "take out",
+        "give away"
+      ],
+      "answer": "pick up"
+    },
+    {
+      "id": 29,
+      "question": "She was so tired she ___ as soon as she got home.",
+      "options": [
+        "dropped by",
+        "dropped off",
+        "put off",
+        "broke down"
+      ],
+      "answer": "dropped off"
     }
   ]
 }

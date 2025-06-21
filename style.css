@@ -80,4 +80,11 @@ body {
   color: white;
   border-color: #c0392b;
 }
+/* Final Score Styling */
 
+#quiz-container h2 {
+  text-align: center;
+  font-size: 1.5rem;
+  color: #2980b9;
+  margin-top: 20px;
+}
