@@ -319,6 +319,50 @@
       ],
       "answer": "dropped off"
     }
+    {
+      "id": 30,
+      "question": "We have too much ____________.",
+      "options": [
+        "vodka",
+        "bananas",
+        "toys",
+        "footballs"
+      ],
+      "answer": "vodka"
+    },
+    {
+      "id": 31,
+      "question": "There isn’t much ____________ left in the fridge.",
+      "options": [
+        "juice",
+        "sandwiches",
+        "tomatoes",
+        "cookies"
+      ],
+      "answer": "juice"
+    },
+    {
+      "id": 32,
+      "question": "She gave me some great ____________.",
+      "options": [
+        "advices",
+        "informations",
+        "ideas",
+        "feedback"
+      ],
+      "answer": "feedback"
+    },
+    {
+      "id": 33,
+      "question": "I need to buy a few ____________ for the meeting.",
+      "options": [
+        "waters",
+        "breads",
+        "bottles of water",
+        "milks"
+      ],
+      "answer": "bottles of water"
+    }
   ]
 }
 
