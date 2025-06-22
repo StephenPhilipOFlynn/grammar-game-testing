@@ -13,6 +13,11 @@ async function loadQuestions() {
   }
 }
 
+function updateScoreDisplay() {
+  const scoreDisplay = document.getElementById('score-display');
+  scoreDisplay.innerText = `Score: ${score}`;
+}
+
 function showQuestion() {
   const container = document.getElementById('quiz-container');
   container.innerHTML = '';
@@ -41,6 +46,7 @@ function handleAnswer(selected) {
   const correct = questions[currentQuestionIndex].answer;
   if (selected === correct) {
     score++;
+    updateScoreDisplay();
   }
   currentQuestionIndex++;
   showQuestion();

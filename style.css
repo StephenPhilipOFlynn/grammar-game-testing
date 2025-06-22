@@ -80,6 +80,16 @@ body {
   color: white;
   border-color: #c0392b;
 }
+
+/* Score display */
+
+#score-display {
+  font-size: 1.2rem;
+  font-weight: 600;
+  margin-bottom: 20px;
+  color: #2c3e50;
+}
+
 /* Final Score Styling */
 
 #quiz-container h2 {
