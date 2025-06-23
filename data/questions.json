@@ -362,6 +362,39 @@
         "milks"
       ],
       "answer": "bottles of water"
+    },
+    {
+      "id": 34,
+      "question": "She has __________ a beautiful painting.",
+      "options": [
+        "make",
+        "made",
+        "makes",
+        "making"
+      ],
+      "answer": "made"
+    },
+    {
+      "id": 35,
+      "question": "Have you ever __________ a horse?",
+      "options": [
+        "rode",
+        "riding",
+        "ride",
+        "ridden"
+      ],
+      "answer": "ridden"
+    },
+    {
+      "id": 36,
+      "question": "They haven’t __________ the email yet to fire him yet.",
+      "options": [
+        "write",
+        "wrote",
+        "written",
+        "writing"
+      ],
+      "answer": "written"
     }
   ]
 }

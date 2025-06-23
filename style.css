@@ -7,15 +7,17 @@ body {
   text-align: center;
   color: #2c3e50;
 }
-    header {
+    
+header {
       background-color: #34495e;
       color: white;
       padding: 1rem;
     }
-    main {
+
+main {
       margin-top: 50px;
     }
-    button {
+button {
       background-color: #2ecc71;
       border: none;
       padding: 15px 30px;
@@ -23,13 +25,13 @@ body {
       border-radius: 5px;
       cursor: pointer;
     }
-    button:hover {
+button:hover {
       background-color: #27ae60;
     }
     
     /* Quiz Container Styles */
  
-  #quiz-container {
+#quiz-container {
   max-width: 650px;
   margin: 60px auto;
   background-color: #ffffff;
