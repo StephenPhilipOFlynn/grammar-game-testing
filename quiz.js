@@ -44,12 +44,22 @@ function showQuestion() {
 
 function handleAnswer(selected) {
   const correct = questions[currentQuestionIndex].answer;
+  const feedback = document.getElementById('feedback-message');
+
   if (selected === correct) {
     score++;
     updateScoreDisplay();
+    feedback.innerText = "✅ Correct!";
+    feedback.style.opacity = 1;
+  } else {
+    feedback.innerText = "";
   }
-  currentQuestionIndex++;
-  showQuestion();
+
+  setTimeout(() => {
+    feedback.style.opacity = 0;
+    currentQuestionIndex++;
+    showQuestion();
+  }, 1000);
 }
 
 window.onload = loadQuestions;
