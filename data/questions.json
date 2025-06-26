@@ -395,6 +395,94 @@
         "writing"
       ],
       "answer": "written"
+    },
+        {
+      "id": 37,
+      "question": "I've never __________ such a strange movie before.",
+      "options": [
+        "see",
+        "saw",
+        "seen",
+        "seeing"
+      ],
+      "answer": "seen"
+    },
+    {
+      "id": 38,
+      "question": "He has __________ all the cookies!",
+      "options": [
+        "eat",
+        "ate",
+        "eaten",
+        "eating"
+      ],
+      "answer": "eaten"
+    },
+    {
+      "id": 39,
+      "question": "We’ve __________ here since 2015.",
+      "options": [
+        "live",
+        "lived",
+        "living",
+        "lain"
+      ],
+      "answer": "lived"
+    },
+    {
+      "id": 40,
+      "question": "She has __________ her ankle three times this year.",
+      "options": [
+        "sprain",
+        "sprained",
+        "sprung",
+        "broken"
+      ],
+      "answer": "broken"
+    },
+    {
+      "id": 41,
+      "question": "This book was __________ by a famous author.",
+      "options": [
+        "write",
+        "wrote",
+        "written",
+        "writing"
+      ],
+      "answer": "written"
+    },
+    {
+      "id": 42,
+      "question": "The windows have just been __________.",
+      "options": [
+        "cleaned",
+        "clean",
+        "cleans",
+        "cleaning"
+      ],
+      "answer": "cleaned"
+    },
+    {
+      "id": 43,
+      "question": "The test results are usually __________ in the morning.",
+      "options": [
+        "send",
+        "sent",
+        "sending",
+        "sends"
+      ],
+      "answer": "sent"
+    },
+    {
+      "id": 44,
+      "question": "A new road is being __________ near the school.",
+      "options": [
+        "build",
+        "built",
+        "building",
+        "builded"
+      ],
+      "answer": "built"
     }
   ]
 }
