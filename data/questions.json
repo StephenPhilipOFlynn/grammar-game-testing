@@ -483,7 +483,76 @@
         "builded"
       ],
       "answer": "built"
+    },
+    {
+      "id": 45,
+      "question": "I enjoy __________ to music in the evening.",
+      "options": [
+        "to listen",
+        "listening",
+        "listen",
+        "listened"
+      ],
+      "answer": "listening"
+    },
+    {
+      "id": 46,
+      "question": "She decided __________ abroad for a year.",
+      "options": [
+        "studying",
+        "to study",
+        "study",
+        "studied"
+      ],
+      "answer": "to study"
+    },
+    {
+      "id": 47,
+      "question": "They made me __________ the form again.",
+      "options": [
+        "fill out",
+        "to fill out",
+        "filled out",
+        "filling out"
+      ],
+      "answer": "fill out"
+    },
+    {
+      "id": 48,
+      "question": "He promised __________ the report by Friday.",
+      "options": [
+        "to finish",
+        "finishing",
+        "finished",
+        "finish"
+      ],
+      "answer": "to finish"
+    },
+    {
+      "id": 49,
+      "question": "Do you mind __________ the window?",
+      "options": [
+        "to close",
+        "closing",
+        "closed",
+        "close"
+      ],
+      "answer": "closing"
     }
+  ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
   ]
 }
 
