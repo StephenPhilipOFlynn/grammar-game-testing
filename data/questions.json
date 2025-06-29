@@ -434,7 +434,7 @@
       "question": "She has __________ her ankle three times this year.",
       "options": [
         "sprain",
-        "sprained",
+        "broked",
         "sprung",
         "broken"
       ],
@@ -538,21 +538,66 @@
         "close"
       ],
       "answer": "closing"
+    },
+    {
+      "id": 51,
+      "question": "By the time she arrived, we __________ eating.",
+      "options": ["had finished", "finished", "have finished", "were finishing"],
+      "answer": "had finished"
+    },
+    {
+      "id": 52,
+      "question": "He __________ all the documents before the meeting started.",
+      "options": ["had prepared", "was preparing", "has prepared", "prepared"],
+      "answer": "had prepared"
+    },
+    {
+      "id": 53,
+      "question": "They didn't go to the cinema because they __________ the movie before.",
+      "options": ["had seen", "saw", "have saw", "were seeing"],
+      "answer": "had seen"
+    },
+    {
+      "id": 54,
+      "question": "After I __________ my homework, I went to bed.",
+      "options": ["had done", "did", "was doing", "have done"],
+      "answer": "had done"
+    },
+    {
+      "id": 55,
+      "question": "We were late for the flight because we __________ the time.",
+      "options": ["had misread", "misread", "were misreading", "have misread"],
+      "answer": "had misread"
+    },
+    {
+      "id": 56,
+      "question": "She felt nervous because she __________ such a big audience before.",
+      "options": ["had never faced", "never faced", "wasn't facing", "has never faced"],
+      "answer": "had never faced"
+    },
+    {
+      "id": 57,
+      "question": "When I got to the party, everyone __________ home.",
+      "options": ["had already gone", "already went", "has already gone", "were already going"],
+      "answer": "had already gone"
+    },
+    {
+      "id": 58,
+      "question": "The teacher asked if we __________ the assignment.",
+      "options": ["had completed", "completed", "have completed", "are completing"],
+      "answer": "had completed"
+    },
+    {
+      "id": 59,
+      "question": "He apologized because he __________ to call me earlier.",
+      "options": ["had forgotten", "forgotten", "has forgotten", "was forgetting"],
+      "answer": "had forgotten"
+    },
+    {
+      "id": 60,
+      "question": "They were tired because they __________ all day.",
+      "options": ["had been working", "worked", "have worked", "were working"],
+      "answer": "had been working"
     }
   ]
 }
-
-
-
-
-
-
-
-
-
-
-
-
-  ]
-}
-
