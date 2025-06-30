@@ -589,7 +589,7 @@
     },
     {
       "id": 59,
-      "question": "He apologized because he __________ to call me earlier.",
+      "question": "He apologised because he __________ to call me earlier.",
       "options": ["had forgotten", "forgotten", "has forgotten", "was forgetting"],
       "answer": "had forgotten"
     },
@@ -598,6 +598,66 @@
       "question": "They were tired because they __________ all day.",
       "options": ["had been working", "worked", "have worked", "were working"],
       "answer": "had been working"
+    },
+    {
+      "id": 61,
+      "question": "Which is the synonym? Yeah Dave is really angry with you, he's ________________",
+      "options": ["delighted", "jealous", "peaceful", "furious"],
+      "answer": "furious"
+    },
+    {
+      "id": 62,
+      "question": "Which word means the same as *help*? The charity exists to _____________ people in need.",
+      "options": ["avoid", "assist", "abandon", "accuse"],
+      "answer": "assist"
+    },
+    {
+      "id": 63,
+      "question": "Which is the synonym? She’s very neat and ___________ when she works.",
+      "options": ["careless", "lazy", "tidy", "messy"],
+      "answer": "tidy"
+    },
+    {
+      "id": 64,
+      "question": "Which is the synonym of *fast*? The rabbit was very ________________.",
+      "options": ["slow", "quick", "sleepy", "careful"],
+      "answer": "quick"
+    },
+    {
+      "id": 65,
+      "question": "Which word means the same as *angry*? He gave me a very __________ look.",
+      "options": ["calm", "furious", "friendly", "silent"],
+      "answer": "furious"
+    },
+    {
+      "id": 66,
+      "question": "Which is the synonym? She’s very intelligent and ______________.",
+      "options": ["bright", "dim", "silly", "unaware"],
+      "answer": "bright"
+    },
+    {
+      "id": 67,
+      "question": "Which word means the same as *happy*? He felt __________ when he got the job.",
+      "options": ["miserable", "furious", "thrilled", "tired"],
+      "answer": "thrilled"
+    },
+    {
+      "id": 68,
+      "question": "Which is the synonym of *cold*? The water was absolutely ____________.",
+      "options": ["boiling", "icy", "warm", "sweaty"],
+      "answer": "icy"
+    },
+    {
+      "id": 69,
+      "question": "Which word means the same as *strange*? That was a really __________ experience.",
+      "options": ["boring", "normal", "weird", "fun"],
+      "answer": "weird"
+    },
+    {
+      "id": 70,
+      "question": "Which is the synonym? I'm totally __________. I haven't slept in 2 days.",
+      "options": ["exhausted", "excited", "relaxed", "energetic"],
+      "answer": "exhausted"
     }
   ]
 }
