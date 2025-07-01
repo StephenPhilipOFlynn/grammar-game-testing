@@ -619,45 +619,225 @@
     },
     {
       "id": 64,
-      "question": "Which is the synonym of *fast*? The rabbit was very ________________.",
+      "question": "Which is the synonym of fast? The rabbit was very ________________.",
       "options": ["slow", "quick", "sleepy", "careful"],
       "answer": "quick"
     },
     {
       "id": 65,
-      "question": "Which word means the same as *angry*? He gave me a very __________ look.",
+      "question": "Which word means the same as angry? He gave me a very __________ look.",
       "options": ["calm", "furious", "friendly", "silent"],
       "answer": "furious"
     },
     {
       "id": 66,
-      "question": "Which is the synonym? She’s very intelligent and ______________.",
+      "question": "Which is the synonym? She’s intelligent, a very ______________ student indeed.",
       "options": ["bright", "dim", "silly", "unaware"],
       "answer": "bright"
     },
     {
       "id": 67,
-      "question": "Which word means the same as *happy*? He felt __________ when he got the job.",
+      "question": "Which word means the same as happy? He felt __________ when he got the job.",
       "options": ["miserable", "furious", "thrilled", "tired"],
       "answer": "thrilled"
     },
     {
       "id": 68,
-      "question": "Which is the synonym of *cold*? The water was absolutely ____________.",
+      "question": "Which is the synonym of cold? The water was absolutely ____________.",
       "options": ["boiling", "icy", "warm", "sweaty"],
       "answer": "icy"
     },
     {
       "id": 69,
-      "question": "Which word means the same as *strange*? That was a really __________ experience.",
+      "question": "Which word means the same as strange? That was a really __________ experience.",
       "options": ["boring", "normal", "weird", "fun"],
       "answer": "weird"
     },
     {
       "id": 70,
-      "question": "Which is the synonym? I'm totally __________. I haven't slept in 2 days.",
+      "question": "Which means the same as tired? I'm totally __________. I haven't slept in 2 days.",
       "options": ["exhausted", "excited", "relaxed", "energetic"],
       "answer": "exhausted"
+    },
+    {
+    "id": 71,
+    "question": "The dog ______ sleeping",
+    "options": ["am", "is", "are", "be"],
+    "answer": "is"
+    },
+    {
+    "id": 72,
+    "question": "What time ______ it?",
+    "options": ["are", "am", "is", "were"],
+    "answer": "is"
+    },
+    {
+    "id": 73,
+    "question": "I ______ an English student",
+    "options": ["are", "am", "be", "is"],
+    "answer": "am"
+    },
+    {
+    "id": 74,
+    "question": "Some people ___ Ireland speak a different language called Gaelic.",
+    "options": ["at", "on", "in", "over"],
+    "answer": "in"
+    },
+    {
+    "id": 75,
+    "question": "I like to go to Paris _______ the summer.",
+    "options": ["in", "on", "beside", "at"],
+    "answer": "in"
+    },
+    {
+    "id": 76,
+    "question": "The cat ______ on the fence",
+    "options": ["sit", "sits", "sitted", "satted"],
+    "answer": "sits"
+    },
+    {
+    "id": 77,
+    "question": "She ate _____ apple",
+    "options": ["an", "a", "am", "won"],
+    "answer": "an"
+    },
+    {
+    "id": 78,
+    "question": "They _____ French. They're from Belgium",
+    "options": ["aren't", "isn't", "ben't", "aintned"],
+    "answer": "aren't"
+    },
+    {
+    "id": 79,
+    "question": "We _____ talking for 2 hours.",
+    "options": ["where", "was", "were", "are"],
+    "answer": "were"
+    },
+    {
+    "id": 80,
+    "question": "I want to make an omelette, _______ eggs do we have?",
+    "options": ["how many", "how much", "how number", "which many"],
+    "answer": "how many"
+    },
+    {
+    "id": 81,
+    "question": "I get _____ every morning at 8am.",
+    "options": ["out", "up", "by", "round"],
+    "answer": "up"
+    },
+    {
+    "id": 82,
+    "question": "What book is _______?",
+    "options": ["those", "that", "them", "these"],
+    "answer": "that"
+    },
+    {
+    "id": 83,
+    "question": "The TV show was successful and _____ them famous.",
+    "options": ["taken", "make", "made", "brought"],
+    "answer": "made"
+    },
+    {
+    "id": 84,
+    "question": "They went to the park ____ Sunday.",
+    "options": ["on", "at", "in", "by"],
+    "answer": "on"
+    },
+    {
+    "id": 85,
+    "question": "Look at ____ horses in the distance.",
+    "options": ["these", "those", "dem", "them"],
+    "answer": "those"
+    },
+    {
+    "id": 86,
+    "question": "Look at ____ trousers on sale.",
+    "options": ["this", "these", "that", "them"],
+    "answer": "these"
+    },
+    {
+    "id": 87,
+    "question": "______ of these cities will you visit?",
+    "options": ["Which", "When", "Where", "Who"],
+    "answer": "Which"
+    },
+    {
+    "id": 88,
+    "question": "Let's go to _________ concert.",
+    "options": ["their", "there", "ther", "they're"],
+    "answer": "their"
+    },
+    {
+    "id": 89,
+    "question": "She did really _______.",
+    "options": ["nice", "well", "good", "fine"],
+    "answer": "well"
+    },
+    {
+    "id": 90,
+    "question": "How many children _______ got?",
+    "options": ["will they", "they have", "have they", "has they"],
+    "answer": "have they"
+    },
+    {
+    "id": 91,
+    "question": "I don't like Colombian coffee, it is _______ strong for me.",
+    "options": ["too", "such", "much", "tres"],
+    "answer": "too"
+    },
+    {
+    "id": 92,
+    "question": "The dog has ______ my homework.",
+    "options": ["eaten", "ate", "eated", "eats"],
+    "answer": "eaten"
+    },
+    {
+    "id": 93,
+    "question": "We _____ to Australia when I was five.",
+    "options": ["moves", "moving", "moved", "move"],
+    "answer": "moved"
+    },
+    {
+    "id": 94,
+    "question": "I wanted to go to the cinema but I couldn't. I _____ studying for the test we had on Monday.",
+    "options": ["must", "was", "been", "am"],
+    "answer": "was"
+    },
+    {
+    "id": 95,
+    "question": "The music video was expensive to make, it ______ twenty million dollars.",
+    "options": ["cost", "costs", "costed", "pay"],
+    "answer": "cost"
+    },
+    {
+    "id": 96,
+    "question": "No sooner _______ arrived when the Chief Executive began to speak.",
+    "options": ["I had", "had I", "did I", "I have"],
+    "answer": "had I"
+    },
+    {
+    "id": 97,
+    "question": "He enjoys ________ the piano in his free time.",
+    "options": ["to play", "playing", "played", "play"],
+    "answer": "playing"
+    },
+    {
+    "id": 98,
+    "question": "Have you ________ watching without me?",
+    "options": ["begun", "starts", "began", "begin"],
+    "answer": "begun"
+    },
+    {
+    "id": 99,
+    "question": "I had _____ all night to see her.",
+    "options": ["drove", "driving", "driven", "drive"],
+    "answer": "driven"
+    },
+    {
+    "id": 100,
+    "question": "She works as a teacher in ___ Africa.",
+    "options": ["__", "an", "the", "in"],
+    "answer": "__"
     }
   ]
 }
