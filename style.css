@@ -12,6 +12,12 @@ body {
   background-repeat: no-repeat;
   background-attachment: fixed;
 }
+
+h2 {
+  font-weight: normal;
+  color: #555;
+  margin-top: 0.5rem;
+}
     
 header {
       background-color: #34495e;
