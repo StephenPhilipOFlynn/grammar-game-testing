@@ -40,6 +40,14 @@ button:hover {
       background-color: #27ae60;
     }
     
+footer {
+  text-align: center;
+  padding: 1rem;
+  font-size: 0.9rem;
+  color: #777;
+  margin-top: 2rem;
+}
+
     /* Quiz Container Styles */
  
 #quiz-container {
