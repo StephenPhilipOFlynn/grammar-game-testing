@@ -839,5 +839,96 @@
     "options": ["__", "an", "the", "in"],
     "answer": "__"
     }
+
+    {
+  "id": 101,
+  "question": "By the time we arrived, the film ___ already started.",
+  "options": ["had", "have", "has", "was"],
+  "answer": "had"
+  },
+  {
+  "id": 102,
+  "question": "She ___ finished the report before the meeting began.",
+  "options": ["had", "has", "have", "was"],
+  "answer": "had"
+  },
+  {
+  "id": 103,
+  "question": "They were tired because they ___ walked for hours.",
+  "options": ["had", "have", "has", "did"],
+  "answer": "had"
+  },
+  {
+  "id": 104,
+  "question": "He ___ never seen a giraffe before going to the zoo.",
+  "options": ["had", "has", "did", "was"],
+  "answer": "had"
+  },
+  {
+  "id": 105,
+  "question": "We ___ the book before the teacher asked us about it.",
+  "options": ["had read", "read", "have read", "reading"],
+  "answer": "had read"
+  },
+  {
+  "id": 106,
+  "question": "She ___ already left when I got to the party.",
+  "options": ["had", "has", "was", "did"],
+  "answer": "had"
+  },
+  {
+  "id": 107,
+  "question": "After he ___ the letter, he felt much better.",
+  "options": ["had written", "wrote", "write", "was writing"],
+  "answer": "had written"
+  },
+  {
+  "id": 108,
+  "question": "They ___ visited the museum before moving to the city.",
+  "options": ["had", "have", "was", "were"],
+  "answer": "had"
+  },
+  {
+  "id": 109,
+  "question": "The train ___ already left when we reached the station.",
+  "options": ["had", "has", "did", "was"],
+  "answer": "had"
+  },
+  {
+  "id": 110,
+  "question": "He ___ eaten sushi before that night.",
+  "options": ["had", "has", "did", "have"],
+  "answer": "had"
+  },
+  {
+  "id": 111,
+  "question": "I ___ forgotten her name until she reminded me.",
+  "options": ["had", "have", "has", "did"],
+  "answer": "had"
+  },
+  {
+  "id": 112,
+  "question": "We ___ just arrived when the phone rang.",
+  "options": ["had", "has", "have", "was"],
+  "answer": "had"
+  },
+  {
+  "id": 113,
+  "question": "They ___ never been to Spain before last summer.",
+  "options": ["had", "has", "were", "did"],
+  "answer": "had"
+  },
+  {
+  "id": 114,
+  "question": "She ___ broken her leg before the trip.",
+  "options": ["had", "has", "did", "was"],
+  "answer": "had"
+  },
+  {
+  "id": 115,
+  "question": "He ___ lost his passport and couldn’t board the plane.",
+  "options": ["had", "has", "was", "have"],
+  "answer": "had"
+  }
   ]
 }
