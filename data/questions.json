@@ -928,6 +928,66 @@
   "question": "He ___ lost his passport and couldn’t board the plane.",
   "options": ["had", "has", "was", "have"],
   "answer": "had"
+  },
+  {
+  "id": 116,
+  "question": "I ___ studied more for the exam. I didn’t do well.",
+  "options": ["should have", "should", "had", "must have"],
+  "answer": "should have"
+  },
+  {
+  "id": 117,
+  "question": "You ___ told me the truth earlier.",
+  "options": ["should have", "have to", "had", "must"],
+  "answer": "should have"
+  },
+  {
+  "id": 118,
+  "question": "They ___ left so early. The party just started.",
+  "options": ["shouldn’t have", "mustn’t have", "hadn’t", "should"],
+  "answer": "shouldn’t have"
+  },
+  {
+  "id": 119,
+  "question": "We ___ booked the table. Now it’s full.",
+  "options": ["should have", "have", "must", "had to"],
+  "answer": "should have"
+  },
+  {
+  "id": 120,
+  "question": "He ___ spoken like that to his boss.",
+  "options": ["shouldn’t have", "should have", "mustn’t", "hadn’t"],
+  "answer": "shouldn’t have"
+  },
+  {
+  "id": 121,
+  "question": "I ___ taken the earlier train. Now I’m late.",
+  "options": ["should have", "should", "had", "must have"],
+  "answer": "should have"
+  },
+  {
+  "id": 122,
+  "question": "She ___ told us she was running late.",
+  "options": ["should have", "had to", "must", "was to"],
+  "answer": "should have"
+  },
+  {
+  "id": 123,
+  "question": "We ___ brought an umbrella. It's pouring!",
+  "options": ["should have", "had", "have to", "could"],
+  "answer": "should have"
+  },
+  {
+  "id": 124,
+  "question": "They ___ spent so much money on that car.",
+  "options": ["shouldn’t have", "should have", "mustn’t have", "hadn’t"],
+  "answer": "shouldn’t have"
+  },
+  {
+  "id": 125,
+  "question": "You ___ eaten so much cake. Now you're going to feel sick.",
+  "options": ["shouldn’t have", "should have", "must not", "hadn’t"],
+  "answer": "shouldn’t have"
   }
   ]
 }
