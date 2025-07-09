@@ -988,6 +988,72 @@
   "question": "You ___ eaten so much cake. Now you're going to feel sick.",
   "options": ["shouldn’t have", "should have", "must not", "hadn’t"],
   "answer": "shouldn’t have"
+  },
+  {
+  "id": 126,
+  "question": "After months of searching, I finally ___ that rare book I needed.",
+  "options": ["got hold of", "got on", "got by", "got round to"],
+  "answer": "got hold of"
+  },
+  {
+  "id": 127,
+  "question": "It took a few weeks, but I finally ___ using Excel formulas at work.",
+  "options": ["got the hang of", "got over", "got into", "got by"],
+  "answer": "got the hang of"
+  },
+  {
+  "id": 128,
+  "question": "She ___ painting during lockdown and now sells her work online.",
+  "options": ["got into", "got back", "got on with", "got round to"],
+  "answer": "got into"
+  },
+  {
+  "id": 129,
+  "question": "When I first moved to Dublin, I ___ with only €10 a day.",
+  "options": ["got by", "got over", "got on", "got away with"],
+  "answer": "got by"
+  },
+  {
+  "id": 130,
+  "question": "We just ___ from Spain yesterday – the weather was amazing!",
+  "options": ["got back", "got over", "got into", "got on"],
+  "answer": "got back"
+  },
+  {
+  "id": 131,
+  "question": "He ___ cheating on his exams because the teachers didn’t notice.",
+  "options": ["got away with", "got the hang of", "got by", "got into"],
+  "answer": "got away with"
+  },
+  {
+  "id": 132,
+  "question": "I finally ___ writing my CV after weeks of putting it off.",
+  "options": ["got round to", "got on with", "got back", "got into"],
+  "answer": "got round to"
+  },
+  {
+  "id": 133,
+  "question": "They ___ a bus to school at 1pm and were a few minutes late.",
+  "options": ["got on", "got by", "got back", "got over"],
+  "answer": "got on"
+  },
+  {
+  "id": 134,
+  "question": "I just ___ a cold last week and I am much better now.",
+  "options": ["got over", "got by", "got on", "got the hang of"],
+  "answer": "got over"
+  },
+  {
+  "id": 135,
+  "question": "I never liked my flatmate at first, but we eventually ___ each other.",
+  "options": ["got on with", "got away with", "got round to", "got over"],
+  "answer": "got on with"
+  },
+  {
+  "id": 136,
+  "question": "As a child, I often ___ at school for talking too much.",
+  "options": ["got into trouble", "got the hang of", "got over", "got on"],
+  "answer": "got into trouble"
   }
   ]
 }
