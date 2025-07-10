@@ -1054,6 +1054,66 @@
   "question": "As a child, I often ___ at school for talking too much.",
   "options": ["got into trouble", "got the hang of", "got over", "got on"],
   "answer": "got into trouble"
+  },
+  {
+  "id": 137,
+  "question": "Can you ___ my dog while I’m away for the weekend?",
+  "options": ["look after", "pick up", "find out", "give up"],
+  "answer": "look after"
+  },
+  {
+  "id": 138,
+  "question": "He ___ smoking last year and feels much healthier now.",
+  "options": ["gave up", "turned down", "ran out of", "set up"],
+  "answer": "gave up"
+  },
+  {
+  "id": 139,
+  "question": "She ___ the job offer because of the low salary.",
+  "options": ["turned down", "gave up", "set up", "broke down"],
+  "answer": "turned down"
+  },
+  {
+  "id": 140,
+  "question": "They ___ a brilliant idea for the group project.",
+  "options": ["came up with", "picked up", "found out", "ran out of"],
+  "answer": "came up with"
+  },
+  {
+  "id": 141,
+  "question": "I ___ some Spanish while I was living in Mexico.",
+  "options": ["picked up", "turned down", "looked after", "broke down"],
+  "answer": "picked up"
+  },
+  {
+  "id": 142,
+  "question": "We ___ milk, so I had to go to the shop.",
+  "options": ["ran out of", "gave up", "picked up", "came up with"],
+  "answer": "ran out of"
+  },
+  {
+  "id": 143,
+  "question": "My car ___ on the motorway and I had to call for help.",
+  "options": ["broke down", "turned down", "picked up", "ran out of"],
+  "answer": "broke down"
+  },
+  {
+  "id": 144,
+  "question": "She ___ that her friend had lied to her.",
+  "options": ["found out", "looked after", "came up with", "set up"],
+  "answer": "found out"
+  },
+  {
+  "id": 145,
+  "question": "They ___ a tech company together in their garage.",
+  "options": ["set up", "gave up", "ran out of", "picked up"],
+  "answer": "set up"
+  },
+  {
+  "id": 146,
+  "question": "He ___ his old friends when he moved back to town.",
+  "options": ["caught up with", "looked after", "broke down", "gave up"],
+  "answer": "caught up with"
   }
   ]
 }
