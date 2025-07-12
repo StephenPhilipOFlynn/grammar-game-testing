@@ -1114,6 +1114,84 @@
   "question": "He ___ his old friends when he moved back to town.",
   "options": ["caught up with", "looked after", "broke down", "gave up"],
   "answer": "caught up with"
+  }, 
+  {
+  "id": 147,
+  "question": "IDIOMS. Come on, this is easy – this exercise is a piece of ________.",
+  "options": ["bread", "cake", "nut", "jam"],
+  "answer": "cake"
+  },
+  {
+  "id": 148,
+  "question": "IDIOMS. He told a silly joke to ________ the ice at the party.",
+  "options": ["break", "crack", "melt", "smash"],
+  "answer": "break"
+  },
+  {
+  "id": 149,
+  "question": "IDIOMS. Oops! She let the ________ out of the bag and ruined the surprise.",
+  "options": ["dog", "mouse", "cat", "rat"],
+  "answer": "cat"
+  },
+  {
+  "id": 150,
+  "question": "IDIOMS. I bought food and picked up my dry cleaning – two birds, one ________.",
+  "options": ["stone", "trip", "plan", "bag"],
+  "answer": "stone"
+  },
+  {
+  "id": 151,
+  "question": "IDIOMS. I’m not feeling great today – a bit under the ________.",
+  "options": ["weather", "blanket", "bed", "cloud"],
+  "answer": "weather"
+  },
+  {
+  "id": 152,
+  "question": "IDIOMS. Come on, ________ the beans! What did they say?",
+  "options": ["drop", "spill", "throw", "cook"],
+  "answer": "spill"
+  },
+  {
+  "id": 153,
+  "question": "IDIOMS. That bag costs an arm and a ________!",
+  "options": ["leg", "neck", "toe", "shoe"],
+  "answer": "leg"
+  },
+  {
+  "id": 154,
+  "question": "IDIOMS. I have to go to the dentist tomorrow – time to bite the ________.",
+  "options": ["bullet", "apple", "belt", "button"],
+  "answer": "bullet"
+  },
+  {
+  "id": 155,
+  "question": "IDIOMS. We only see them once in a blue ________.",
+  "options": ["sky", "ocean", "moon", "night"],
+  "answer": "moon"
+  },
+  {
+  "id": 156,
+  "question": "IDIOMS. She stayed up late finishing her project – really burned the midnight ________.",
+  "options": ["oil", "coffee", "lamp", "sheets"],
+  "answer": "oil"
+  },
+  {
+  "id": 157,
+  "question": "IDIOMS. Now I’ve done my part – the ball is in your ________.",
+  "options": ["court", "field", "hands", "house"],
+  "answer": "court"
+  },
+  {
+  "id": 158,
+  "question": "IDIOMS. She really hit the ________ on the head with that comment.",
+  "options": ["nail", "hammer", "thumb", "target"],
+  "answer": "nail"
+  },
+  {
+  "id": 159,
+  "question": "IDIOMS. Our plan didn’t work – it’s back to the ________ board.",
+  "options": ["drawing", "planning", "chess", "score"],
+  "answer": "drawing"
   }
   ]
 }
