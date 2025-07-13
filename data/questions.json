@@ -1192,6 +1192,96 @@
   "question": "IDIOMS. Our plan didn’t work – it’s back to the ________ board.",
   "options": ["drawing", "planning", "chess", "score"],
   "answer": "drawing"
+  },
+  {
+  "id": 160,
+  "question": "MODALS. He’s not here – he ________ forgotten about the meeting.",
+  "options": ["must have", "should have", "could", "will have"],
+  "answer": "must have"
+  },
+  {
+  "id": 161,
+  "question": "MODALS. You look tired – you ________ gone to bed earlier.",
+  "options": ["should have", "must have", "could", "may"],
+  "answer": "should have"
+  },
+  {
+  "id": 162,
+  "question": "MODALS. I can’t believe she didn’t say goodbye. She ________ been upset.",
+  "options": ["must have", "should", "could", "has"],
+  "answer": "must have"
+  },
+  {
+  "id": 163,
+  "question": "MODALS. He ________ caught the earlier bus if he had left on time.",
+  "options": ["could have", "must have", "should", "might"],
+  "answer": "could have"
+  },
+  {
+  "id": 164,
+  "question": "MODALS. That was so dangerous – you ________ died!",
+  "options": ["could have", "must", "should have", "can have"],
+  "answer": "could have"
+  },
+  {
+  "id": 165,
+  "question": "MODALS. The lights were on all night – someone ________ left them on.",
+  "options": ["must have", "should have", "could", "had"],
+  "answer": "must have"
+  },
+  {
+  "id": 166,
+  "question": "MODALS. It was a mistake – I ________ checked the email before sending it.",
+  "options": ["should have", "could have", "must", "might"],
+  "answer": "should have"
+  },
+  {
+  "id": 167,
+  "question": "MODALS. She ________ known about the change – she looked so surprised.",
+  "options": ["can’t have", "must have", "should have", "could have"],
+  "answer": "can’t have"
+  },
+  {
+  "id": 168,
+  "question": "MODALS. I didn’t see him in the photo – he ________ been there.",
+  "options": ["might not have", "must have", "should have", "wasn't"],
+  "answer": "might not have"
+  },
+  {
+  "id": 169,
+  "question": "MODALS. You ________ helped her – she was clearly struggling.",
+  "options": ["could have", "must have", "will have", "can have"],
+  "answer": "could have"
+  },
+  {
+  "id": 170,
+  "question": "MODALS. He failed the exam. He ________ studied more.",
+  "options": ["should have", "could", "must", "can have"],
+  "answer": "should have"
+  },
+  {
+  "id": 171,
+  "question": "MODALS. I can't believe she passed! She ________ worked really hard.",
+  "options": ["must have", "should have", "could", "might not have"],
+  "answer": "must have"
+  },
+  {
+  "id": 172,
+  "question": "MODALS. They ________ gone out already – the house is empty.",
+  "options": ["must have", "could", "should", "might"],
+  "answer": "must have"
+  },
+  {
+  "id": 173,
+  "question": "MODALS. We ________ taken that shortcut – it cost us time.",
+  "options": ["shouldn't have", "could have", "must have", "won't have"],
+  "answer": "shouldn't have"
+  },
+  {
+  "id": 174,
+  "question": "MODALS. I was so lucky. Things ________ gone very differently.",
+  "options": ["could have", "must have", "should have", "might not"],
+  "answer": "could have"
   }
   ]
 }
