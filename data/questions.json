@@ -1282,6 +1282,126 @@
   "question": "MODALS. I was so lucky. Things ________ gone very differently.",
   "options": ["could have", "must have", "should have", "might not"],
   "answer": "could have"
+  },
+  {
+    "id": 175,
+    "question": "PREPOSITIONS. It depends ___ the weather.",
+    "options": ["at", "on", "in", "to"],
+    "answer": "on"
+  },
+  {
+    "id": 176,
+    "question": "PREPOSITIONS. This book belongs ___ me.",
+    "options": ["for", "with", "to", "at"],
+    "answer": "to"
+  },
+  {
+    "id": 177,
+    "question": "PREPOSITIONS. She listens ___ music every morning.",
+    "options": ["on", "for", "to", "at"],
+    "answer": "to"
+  },
+  {
+    "id": 178,
+    "question": "PREPOSITIONS. He apologized ___ being late.",
+    "options": ["on", "to", "for", "about"],
+    "answer": "for"
+  },
+  {
+    "id": 179,
+    "question": "PREPOSITIONS. We talked ___ our weekend plans.",
+    "options": ["in", "about", "on", "to"],
+    "answer": "about"
+  },
+  {
+    "id": 180,
+    "question": "PREPOSITIONS. I agree ___ your opinion.",
+    "options": ["on", "to", "with", "in"],
+    "answer": "with"
+  },
+  {
+    "id": 181,
+    "question": "PREPOSITIONS. She applied ___ the job yesterday.",
+    "options": ["to", "with", "on", "for"],
+    "answer": "for"
+  },
+  {
+    "id": 182,
+    "question": "PREPOSITIONS. They laughed ___ his joke.",
+    "options": ["to", "at", "on", "about"],
+    "answer": "at"
+  },
+  {
+    "id": 183,
+    "question": "PREPOSITIONS. Don’t worry ___ the exam.",
+    "options": ["to", "about", "of", "on"],
+    "answer": "about"
+  },
+  {
+    "id": 184,
+    "question": "PREPOSITIONS. He paid ___ the meal before we arrived.",
+    "options": ["at", "on", "to", "for"],
+    "answer": "for"
+  },
+  {
+    "id": 185,
+    "question": "PREPOSITIONS. She’s interested ___ photography.",
+    "options": ["on", "in", "with", "at"],
+    "answer": "in"
+  },
+  {
+    "id": 186,
+    "question": "PREPOSITIONS. He’s good ___ cooking.",
+    "options": ["in", "at", "with", "to"],
+    "answer": "at"
+  },
+  {
+    "id": 187,
+    "question": "PREPOSITIONS. I’m afraid ___ spiders.",
+    "options": ["with", "of", "about", "from"],
+    "answer": "of"
+  },
+  {
+    "id": 188,
+    "question": "PREPOSITIONS. They’re proud ___ their achievements.",
+    "options": ["in", "on", "of", "for"],
+    "answer": "of"
+  },
+  {
+    "id": 189,
+    "question": "PREPOSITIONS. I’m tired ___ working late every night.",
+    "options": ["at", "about", "for", "of"],
+    "answer": "of"
+  },
+  {
+    "id": 190,
+    "question": "PREPOSITIONS. She’s angry ___ her brother for taking her phone.",
+    "options": ["to", "with", "on", "near"],
+    "answer": "with"
+  },
+  {
+    "id": 191,
+    "question": "PREPOSITIONS. Paris is famous ___ its food and wine.",
+    "options": ["about", "of", "to", "for"],
+    "answer": "for"
+  },
+  {
+    "id": 192,
+    "question": "PREPOSITIONS. We’re worried ___ the results of the test.",
+    "options": ["for", "about", "off", "on"],
+    "answer": "about"
+  },
+  {
+    "id": 193,
+    "question": "PREPOSITIONS. What’s the reason ___ the delay?",
+    "options": ["with", "on", "for", "of"],
+    "answer": "for"
+  },
+  {
+    "id": 194,
+    "question": "PREPOSITIONS. Is there a connection ___ diet and health?",
+    "options": ["with", "between", "for", "among"],
+    "answer": "between"
   }
-  ]
+]
 }
