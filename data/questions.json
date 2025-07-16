@@ -1194,94 +1194,94 @@
   "answer": "drawing"
   },
   {
-  "id": 160,
-  "question": "MODALS. He’s not here – he ________ forgotten about the meeting.",
-  "options": ["must have", "should have", "could", "will have"],
-  "answer": "must have"
+    "id": 160,
+    "question": "MODALS. He’s not here – he ________ forgotten about the meeting.",
+    "options": ["will have", "must have", "should have", "could"],
+    "answer": "must have"
   },
   {
-  "id": 161,
-  "question": "MODALS. You look tired – you ________ gone to bed earlier.",
-  "options": ["should have", "must have", "could", "may"],
-  "answer": "should have"
+    "id": 161,
+    "question": "MODALS. You look tired – you ________ gone to bed earlier.",
+    "options": ["could", "should have", "may", "must have"],
+    "answer": "should have"
   },
   {
-  "id": 162,
-  "question": "MODALS. I can’t believe she didn’t say goodbye. She ________ been upset.",
-  "options": ["must have", "should", "could", "has"],
-  "answer": "must have"
+    "id": 162,
+    "question": "MODALS. I can’t believe she didn’t say goodbye. She ________ been upset.",
+    "options": ["should", "must have", "has", "could"],
+    "answer": "must have"
   },
   {
-  "id": 163,
-  "question": "MODALS. He ________ caught the earlier bus if he had left on time.",
-  "options": ["could have", "must have", "should", "might"],
-  "answer": "could have"
+    "id": 163,
+    "question": "MODALS. He ________ caught the earlier bus if he had left on time.",
+    "options": ["should", "might", "must have", "could have"],
+    "answer": "could have"
   },
   {
-  "id": 164,
-  "question": "MODALS. That was so dangerous – you ________ died!",
-  "options": ["could have", "must", "should have", "can have"],
-  "answer": "could have"
+    "id": 164,
+    "question": "MODALS. That was so dangerous – you ________ died!",
+    "options": ["could have", "should have", "must", "can have"],
+    "answer": "could have"
   },
   {
-  "id": 165,
-  "question": "MODALS. The lights were on all night – someone ________ left them on.",
-  "options": ["must have", "should have", "could", "had"],
-  "answer": "must have"
+    "id": 165,
+    "question": "MODALS. The lights were on all night – someone ________ left them on.",
+    "options": ["had", "should have", "must have", "could"],
+    "answer": "must have"
   },
   {
-  "id": 166,
-  "question": "MODALS. It was a mistake – I ________ checked the email before sending it.",
-  "options": ["should have", "could have", "must", "might"],
-  "answer": "should have"
+    "id": 166,
+    "question": "MODALS. It was a mistake – I ________ checked the email before sending it.",
+    "options": ["must", "should have", "might", "could have"],
+    "answer": "should have"
   },
   {
-  "id": 167,
-  "question": "MODALS. She ________ known about the change – she looked so surprised.",
-  "options": ["can’t have", "must have", "should have", "could have"],
-  "answer": "can’t have"
+    "id": 167,
+    "question": "MODALS. She ________ known about the change – she looked so surprised.",
+    "options": ["could have", "must have", "can’t have", "should have"],
+    "answer": "can’t have"
   },
   {
-  "id": 168,
-  "question": "MODALS. I didn’t see him in the photo – he ________ been there.",
-  "options": ["might not have", "must have", "should have", "wasn't"],
-  "answer": "might not have"
+    "id": 168,
+    "question": "MODALS. I didn’t see him in the photo – he ________ been there.",
+    "options": ["must have", "wasn't", "might not have", "should have"],
+    "answer": "might not have"
   },
   {
-  "id": 169,
-  "question": "MODALS. You ________ helped her – she was clearly struggling.",
-  "options": ["could have", "must have", "will have", "can have"],
-  "answer": "could have"
+    "id": 169,
+    "question": "MODALS. You ________ helped her – she was clearly struggling.",
+    "options": ["will have", "can have", "must have", "could have"],
+    "answer": "could have"
   },
   {
-  "id": 170,
-  "question": "MODALS. He failed the exam. He ________ studied more.",
-  "options": ["should have", "could", "must", "can have"],
-  "answer": "should have"
+    "id": 170,
+    "question": "MODALS. He failed the exam. He ________ studied more.",
+    "options": ["must", "should have", "could", "can have"],
+    "answer": "should have"
   },
   {
-  "id": 171,
-  "question": "MODALS. I can't believe she passed! She ________ worked really hard.",
-  "options": ["must have", "should have", "could", "might not have"],
-  "answer": "must have"
+    "id": 171,
+    "question": "MODALS. I can't believe she passed! She ________ worked really hard.",
+    "options": ["might not have", "should have", "must have", "could"],
+    "answer": "must have"
   },
   {
-  "id": 172,
-  "question": "MODALS. They ________ gone out already – the house is empty.",
-  "options": ["must have", "could", "should", "might"],
-  "answer": "must have"
+    "id": 172,
+    "question": "MODALS. They ________ gone out already – the house is empty.",
+    "options": ["must have", "could", "might", "should"],
+    "answer": "must have"
   },
   {
-  "id": 173,
-  "question": "MODALS. We ________ taken that shortcut – it cost us time.",
-  "options": ["shouldn't have", "could have", "must have", "won't have"],
-  "answer": "shouldn't have"
+    "id": 173,
+    "question": "MODALS. We ________ taken that shortcut – it cost us time.",
+    "options": ["won't have", "shouldn't have", "must have", "could have"],
+    "answer": "shouldn't have"
   },
   {
-  "id": 174,
-  "question": "MODALS. I was so lucky. Things ________ gone very differently.",
-  "options": ["could have", "must have", "should have", "might not"],
-  "answer": "could have"
+    "id": 174,
+    "question": "MODALS. I was so lucky. Things ________ gone very differently.",
+    "options": ["must have", "might not", "could have", "should have"],
+    "answer": "could have"
   },
   {
     "id": 175,
@@ -1298,7 +1298,7 @@
   {
     "id": 177,
     "question": "PREPOSITIONS. She listens ___ music every morning.",
-    "options": ["on", "for", "to", "at"],
+    "options": ["on", "off", "to", "at"],
     "answer": "to"
   },
   {
@@ -1402,6 +1402,126 @@
     "question": "PREPOSITIONS. Is there a connection ___ diet and health?",
     "options": ["with", "between", "for", "among"],
     "answer": "between"
+  },
+  {
+    "id": 196,
+    "question": "Which phrasal verb means “to reduce speed or activity”?",
+    "options": ["Put off", "Slow down", "Take up", "Get away"],
+    "answer": "Slow down"
+  },
+  {
+    "id": 197,
+    "question": "Which form correctly completes the sentence: “She suggested ___ a taxi”?",
+    "options": ["take", "to take", "taking", "taken"],
+    "answer": "taking"
+  },
+  {
+    "id": 198,
+    "question": "Which word best completes this sentence: “The weather was so hot that I could hardly ___”?",
+    "options": ["concentrate", "concentrating", "concentration", "concentrates"],
+    "answer": "concentrate"
+  },
+  {
+    "id": 199,
+    "question": "Which prefix means “too much”?",
+    "options": ["mis-", "under-", "over-", "re-"],
+    "answer": "over-"
+  },
+  {
+    "id": 200,
+    "question": "Which sentence uses “used to” correctly?",
+    "options": ["I used to going there every day.", "I use to go there.", "I used to go there.", "I used go there."],
+    "answer": "I used to go there."
+  },
+  {
+    "id": 201,
+    "question": "Which sentence uses “so” correctly for emphasis?",
+    "options": ["I was so tired I fell asleep.", "I was tired so I fell asleep.", "I so was tired I fell asleep.", "I was tired I so fell asleep."],
+    "answer": "I was so tired I fell asleep."
+  },
+  {
+    "id": 202,
+    "question": "What does the phrasal verb “run out of” mean?",
+    "options": ["To escape from somewhere", "To be exhausted after running", "To finish the supply of something", "To get bored"],
+    "answer": "To finish the supply of something"
+  },
+  {
+    "id": 203,
+    "question": "Which is correct? “He’s really good ___ solving problems.”",
+    "options": ["of", "at", "with", "for"],
+    "answer": "at"
+  },
+  {
+    "id": 204,
+    "question": "Which suffix creates a noun meaning a person who does something?",
+    "options": ["-able", "-ful", "-er", "-ing"],
+    "answer": "-er"
+  },
+  {
+    "id": 205,
+    "question": "Which sentence shows a contrast using “although”?",
+    "options": ["Although he is rich, he’s not happy.", "He is rich, although he’s not happy.", "He is although rich, not happy.", "Although, he is rich, he not happy."],
+    "answer": "Although he is rich, he’s not happy."
+  },
+  {
+    "id": 206,
+    "question": "Which sentence correctly uses “enough”?",
+    "options": ["He is enough tall to play basketball.", "He tall enough is to play basketball.", "He is tall enough to play basketball.", "He is enough to be tall."],
+    "answer": "He is tall enough to play basketball."
+  },
+  {
+    "id": 207,
+    "question": "What does “take after” mean?",
+    "options": ["To care for someone", "To resemble a family member", "To follow someone", "To replace someone"],
+    "answer": "To resemble a family member"
+  },
+  {
+    "id": 208,
+    "question": "Which word best completes: “She was late ___ the traffic”?",
+    "options": ["because", "so", "because of", "due"],
+    "answer": "because of"
+  },
+  {
+    "id": 209,
+    "question": "Which is a collocation with “make”?",
+    "options": ["Make a decision", "Make a mistake", "Make progress", "All of the above"],
+    "answer": "All of the above"
+  },
+  {
+    "id": 210,
+    "question": "Which of these verbs is followed by the -ing form?",
+    "options": ["Decide", "Promise", "Enjoy", "Plan"],
+    "answer": "Enjoy"
+  },
+  {
+    "id": 211,
+    "question": "What is the function of “so that” in a sentence?",
+    "options": ["Cause", "Purpose", "Condition", "Contrast"],
+    "answer": "Purpose"
+  },
+  {
+    "id": 212,
+    "question": "Which is correct? “I’ve lived in Dublin ___ 2015.”",
+    "options": ["for", "since", "from", "at"],
+    "answer": "since"
+  },
+  {
+    "id": 213,
+    "question": "Choose the correct relative clause: “This is the book ___ I told you about.”",
+    "options": ["who", "whose", "which", "where"],
+    "answer": "which"
+  },
+  {
+    "id": 214,
+    "question": "Which one is a phrasal verb meaning “to delay something”?",
+    "options": ["Put down", "Put off", "Put on", "Put away"],
+    "answer": "Put off"
+  },
+  {
+    "id": 215,
+    "question": "Which word matches this definition: “someone who doesn’t eat meat”?",
+    "options": ["Herbivore", "Carnivore", "Vegetarian", "Vegan"],
+    "answer": "Vegetarian"
   }
 ]
 }
