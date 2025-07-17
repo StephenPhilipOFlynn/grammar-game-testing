@@ -1519,9 +1519,129 @@
   },
   {
     "id": 215,
-    "question": "Which word matches this definition: “someone who doesn’t eat meat”?",
+    "question": "Which word matches this definition: “someone who doesn’t eat meat, but eats dairy”?",
     "options": ["Herbivore", "Carnivore", "Vegetarian", "Vegan"],
     "answer": "Vegetarian"
+  },
+  {
+    "id": 216,
+    "question": "Which is correct for expressing regret about a missed opportunity?",
+    "options": ["He must have gone to the party.", "He will have gone to the party.", "He should have gone to the party.", "He could go to the party."],
+    "answer": "He should have gone to the party."
+  }
+  {
+    "id": 217,
+    "question": "Which verb pattern follows 'enjoy'?",
+    "options": ["Verb + to + infinitive", "Verb + that clause", "Verb + -ing", "Verb + object + infinitive"],
+    "answer": "Verb + -ing"
+  },
+  {
+    "id": 218,
+    "question": "Which of the following uses the correct form of the third conditional?",
+    "options": ["If I study, I would pass the exam.", "If I studied, I will pass the exam.", "If I had studied, I would have passed the exam.", "If I had studied, I will have passed the exam."],
+    "answer": "If I had studied, I would have passed the exam."
+  },
+  {
+    "id": 219,
+    "question": "Which sentence uses the past perfect correctly?",
+    "options": ["She has gone to the shop before it rained.", "She goes to the shop before it rains.", "She had gone to the shop before it rained.", "She had go to the shop before it rain."],
+    "answer": "She had gone to the shop before it rained."
+  },
+  {
+    "id": 220,
+    "question": "Which dependent preposition is correct? “This book belongs ___ me.”",
+    "options": ["on", "to", "at", "with"],
+    "answer": "to"
+  },
+  {
+    "id": 221,
+    "question": "Choose the correct adjective + preposition combination:",
+    "options": ["Interested at", "Angry for", "Famous on", "Good at"],
+    "answer": "Good at"
+  },
+  {
+    "id": 222,
+    "question": "What does the phrasal verb “get over” mean in the context of illness?",
+    "options": ["Start something new", "Become angry", "Recover", "Avoid"],
+    "answer": "Recover"
+  },
+  {
+    "id": 223,
+    "question": "Which of the following uses a modal perfect correctly?",
+    "options": ["You must gone to the shop.", "She must have gone to the shop.", "They should have go to the shop.", "He could has gone to the shop."],
+    "answer": "She must have gone to the shop."
+  },
+  {
+    "id": 224,
+    "question": "Which sentence shows advice about the past?",
+    "options": ["You must go earlier.", "You should go earlier.", "You should have gone earlier.", "You could go earlier."],
+    "answer": "You should have gone earlier."
+  },
+  {
+    "id": 225,
+    "question": "Which is a correct use of 'listen'?",
+    "options": ["I listened at music.", "I listened of music.", "I listened to music.", "I listened with music."],
+    "answer": "I listened to music."
+  },
+  {
+    "id": 226,
+    "question": "Which modal suggests a strong logical conclusion?",
+    "options": ["Could have", "Should have", "Must have", "Might"],
+    "answer": "Must have"
+  },
+  {
+    "id": 227,
+    "question": "Which of these is a noun + preposition combination?",
+    "options": ["Tired of", "Good at", "Listen to", "Reason for"],
+    "answer": "Reason for"
+  },
+  {
+    "id": 228,
+    "question": "What is the correct form of 'talk' when referring to a topic?",
+    "options": ["Talk for", "Talk on", "Talk about", "Talk with"],
+    "answer": "Talk about"
+  },
+  {
+    "id": 229,
+    "question": "Choose the sentence using 'pay for' correctly:",
+    "options": ["He paid the meal.", "He paid for the meal.", "He paid to the meal.", "He paid by the meal."],
+    "answer": "He paid for the meal."
+  },
+  {
+    "id": 230,
+    "question": "Which sentence best fits a ‘Find someone who’ activity with 'got back'?",
+    "options": ["Find someone who got back the book.", "Find someone who got back from a holiday recently.", "Find someone who got back with someone.", "Find someone who got back to sleep."],
+    "answer": "Find someone who got back from a holiday recently."
+  },
+  {
+    "id": 231,
+    "question": "What is the meaning of 'got away with' in this sentence? “Stephen got away with cheating in his exam.”",
+    "options": ["Escaped punishment", "Was forgiven", "Lied to a teacher", "Studied secretly"],
+    "answer": "Escaped punishment"
+  },
+  {
+    "id": 232,
+    "question": "Which sentence is an example of the third conditional?",
+    "options": ["If I had known, I would have told you.", "If I know, I will tell you.", "If I know, I would tell you.", "If I knew, I will tell you."],
+    "answer": "If I had known, I would have told you."
+  },
+  {
+    "id": 233,
+    "question": "Which verb takes the ‘to + infinitive’ pattern?",
+    "options": ["Avoid", "Enjoy", "Plan", "Miss"],
+    "answer": "Plan"
+  },
+  {
+    "id": 234,
+    "question": "Which question is in the past perfect?",
+    "options": ["Did you eat lunch?", "Had you eaten lunch before class?", "Have you eaten lunch yet?", "Do you eat lunch at 1?"],
+    "answer": "Had you eaten lunch before class?"
+  },
+  {
+    "id": 235,
+    "question": "Which is an example of “get by”?",
+    "options": ["She got by her friends.", "She got by with little money.", "She got by train.", "She got by the store."],
+    "answer": "She got by with little money."
   }
 ]
 }
