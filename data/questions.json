@@ -1528,7 +1528,7 @@
     "question": "Which is correct for expressing regret about a missed opportunity?",
     "options": ["He must have gone to the party.", "He will have gone to the party.", "He should have gone to the party.", "He could go to the party."],
     "answer": "He should have gone to the party."
-  }
+  },
   {
     "id": 217,
     "question": "Which verb pattern follows 'enjoy'?",
@@ -1642,6 +1642,39 @@
     "question": "Which is an example of “get by”?",
     "options": ["She got by her friends.", "She got by with little money.", "She got by train.", "She got by the store."],
     "answer": "She got by with little money."
+  }
+  {
+    "id": 236,
+    "question": "If the British army hadn’t executed the leaders of the Easter Rising, what might have happened?",
+    "options": [
+      "Support might not have grew.",
+      "Support might not have grown.",
+      "Support didn’t grow.",
+      "Support might not grew."
+    ],
+    "answer": "Support might not have grown."
+  },
+  {
+    "id": 237,
+    "question": "If the Berlin Wall hadn’t fallen in 1989, what would have happened?",
+    "options": [
+      "Germany would stayed divided.",
+      "Germany would have stayed divided.",
+      "Germany would have stay divided.",
+      "Germany had stayed divided."
+    ],
+    "answer": "Germany would have stayed divided."
+  },
+  {
+    "id": 238,
+    "question": "If the Titanic hadn’t hit the iceberg, what would have happened?",
+    "options": [
+      "It would have arrived safe.",
+      "It would have arrived safely.",
+      "It would arrived safely.",
+      "It had arrived safely."
+    ],
+    "answer": "It would have arrived safely."
   }
 ]
 }
