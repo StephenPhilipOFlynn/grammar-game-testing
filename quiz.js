@@ -2,11 +2,19 @@ let currentQuestionIndex = 0;
 let score = 0;
 let questions = [];
 
+function shuffleArray(array) {
+  for (let i = array.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [array[i], array[j]] = [array[j], array[i]];
+  }
+}
+
 async function loadQuestions() {
   try {
     const response = await fetch('data/questions.json');
     const data = await response.json();
     questions = data.questions;
+    shuffleArray(questions);
     showQuestion();
   } catch (error) {
     document.getElementById('quiz-container').innerText = "Failed to load questions.";
