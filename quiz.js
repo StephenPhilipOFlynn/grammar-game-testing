@@ -53,15 +53,27 @@ function showQuestion() {
 function handleAnswer(selected) {
   const correct = questions[currentQuestionIndex].answer;
   const feedback = document.getElementById('feedback-message');
+  const optionButtons = document.querySelectorAll('.option-button');
+
+  optionButtons.forEach(button => {
+    button.disabled = true; // Disable all options
+    if (button.innerText === correct) {
+      button.classList.add('correct');
+    }
+    if (button.innerText === selected && selected !== correct) {
+      button.classList.add('incorrect');
+    }
+  });
 
   if (selected === correct) {
     score++;
     updateScoreDisplay();
     feedback.innerText = "✅ Correct!";
-    feedback.style.opacity = 1;
   } else {
-    feedback.innerText = "";
+    feedback.innerText = "❌ Incorrect!";
   }
+
+  feedback.style.opacity = 1;
 
   setTimeout(() => {
     feedback.style.opacity = 0;
