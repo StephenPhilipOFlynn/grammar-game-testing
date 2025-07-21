@@ -1585,15 +1585,15 @@
   },
   {
     "id": 226,
-    "question": "Which modal suggests a strong logical conclusion?",
-    "options": ["Could have", "Should have", "Must have", "Might"],
-    "answer": "Must have"
+    "question": "Their car is not back yet. They __________ stayed later at the party.",
+    "options": ["could", "should have", "must have", "Might"],
+    "answer": "must have"
   },
   {
     "id": 227,
-    "question": "Which of these is a noun + preposition combination?",
-    "options": ["Tired of", "Good at", "Listen to", "Reason for"],
-    "answer": "Reason for"
+    "question": "I'm _________ listening to you moan about it.",
+    "options": ["tired of", "tired off", "tired down", "tired up"],
+    "answer": "tired of"
   },
   {
     "id": 228,
@@ -1603,9 +1603,9 @@
   },
   {
     "id": 229,
-    "question": "Choose the sentence using 'pay for' correctly:",
-    "options": ["He paid the meal.", "He paid for the meal.", "He paid to the meal.", "He paid by the meal."],
-    "answer": "He paid for the meal."
+    "question": "He was generous, he __________ the meal",
+    "options": ["paid", "paid for", "paid to", "paid by"],
+    "answer": "paid for"
   },
   {
     "id": 230,
@@ -1627,9 +1627,9 @@
   },
   {
     "id": 233,
-    "question": "Which verb takes the ‘to + infinitive’ pattern?",
-    "options": ["Avoid", "Enjoy", "Plan", "Miss"],
-    "answer": "Plan"
+    "question": "We need ________ this business better",
+    "options": ["me plan", "planning", "to plan", "planned"],
+    "answer": "to plan"
   },
   {
     "id": 234,
