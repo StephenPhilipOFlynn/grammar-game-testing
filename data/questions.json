@@ -48,10 +48,10 @@
       "id": 5,
       "question": "Choose the best word: He’s very ____ about his exam results.",
       "options": [
-        "anxious",
+        "lazy",
         "envy",
         "aggressive",
-        "lazy"
+        "anxious"
       ],
       "answer": "anxious"
     },
@@ -211,7 +211,7 @@
     },
     {
       "id": 20,
-      "question": "Choose the correct phrasal verb: 'She _____ up smoking last year.'",
+      "question": "Choose the correct phrasal verb: 'She ________ smoking last year after the diagnosis.'",
       "options": [
         "gave",
         "gave out",
@@ -979,7 +979,7 @@
   },
   {
   "id": 124,
-  "question": "They ___ spent so much money on that car.",
+  "question": "REGRETS. We ___ spent so much money on that car. It was a mistake",
   "options": ["shouldn’t have", "should have", "mustn’t have", "hadn’t"],
   "answer": "shouldn’t have"
   },
@@ -998,7 +998,7 @@
   {
   "id": 127,
   "question": "It took a few weeks, but I finally ___ using Excel formulas at work.",
-  "options": ["got the hang of", "got over", "got into", "got by"],
+  "options": ["got the hang of", "got over", "got through", "got by"],
   "answer": "got the hang of"
   },
   {
@@ -1243,9 +1243,9 @@
   },
   {
     "id": 168,
-    "question": "MODALS. I didn’t see him in the photo – he ________ been there.",
-    "options": ["must have", "wasn't", "might not have", "should have"],
-    "answer": "might not have"
+    "question": "DEDUCTIONS. I didn’t see him in the photo – he ________ been there.",
+    "options": ["must", "wasn't", "mightn't have", "might"],
+    "answer": "mightn't have"
   },
   {
     "id": 169,
@@ -1303,8 +1303,8 @@
   },
   {
     "id": 178,
-    "question": "PREPOSITIONS. He apologized ___ being late.",
-    "options": ["on", "to", "for", "about"],
+    "question": "PREPOSITIONS. He apologised ___ being late.",
+    "options": ["on", "to", "for", "off"],
     "answer": "for"
   },
   {
@@ -1417,7 +1417,7 @@
   },
   {
     "id": 198,
-    "question": "Which word best completes this sentence: “The weather was so hot that I could hardly ___”?",
+    "question": "The weather was so hot that I could hardly ___?",
     "options": ["concentrate", "concentrating", "concentration", "concentrates"],
     "answer": "concentrate"
   },
@@ -1435,9 +1435,9 @@
   },
   {
     "id": 201,
-    "question": "Which sentence uses “so” correctly for emphasis?",
-    "options": ["I was so tired I fell asleep.", "I was tired so I fell asleep.", "I so was tired I fell asleep.", "I was tired I so fell asleep."],
-    "answer": "I was so tired I fell asleep."
+    "question": "Wow, look at that guy! He's ______ handsome!",
+    "options": ["too", "so", "much", "many"],
+    "answer": "so"
   },
   {
     "id": 202,
@@ -1489,9 +1489,9 @@
   },
   {
     "id": 210,
-    "question": "Which of these verbs is followed by the -ing form?",
-    "options": ["Decide", "Promise", "Enjoy", "Plan"],
-    "answer": "Enjoy"
+    "question": "He always enjoyed ________ his next holiday carefully.",
+    "options": ["to plan", "planning", "organise", "plan"],
+    "answer": "planning"
   },
   {
     "id": 211,
@@ -1531,13 +1531,13 @@
   },
   {
     "id": 217,
-    "question": "Which verb pattern follows 'enjoy'?",
-    "options": ["Verb + to + infinitive", "Verb + that clause", "Verb + -ing", "Verb + object + infinitive"],
-    "answer": "Verb + -ing"
+    "question": "I remember _________ her look uncomfortable",
+    "options": ["to see", "being", "to notice", "seeing"],
+    "answer": "seeing"
   },
   {
     "id": 218,
-    "question": "Which of the following uses the correct form of the third conditional?",
+    "question": "Which of these correctly expresses a different possible past?",
     "options": ["If I study, I would pass the exam.", "If I studied, I will pass the exam.", "If I had studied, I would have passed the exam.", "If I had studied, I will have passed the exam."],
     "answer": "If I had studied, I would have passed the exam."
   },
@@ -1579,9 +1579,9 @@
   },
   {
     "id": 225,
-    "question": "Which is a correct use of 'listen'?",
-    "options": ["I listened at music.", "I listened of music.", "I listened to music.", "I listened with music."],
-    "answer": "I listened to music."
+    "question": "I listened ___ his band's music.",
+    "options": ["at", "of", "to", "with"],
+    "answer": "to"
   },
   {
     "id": 226,
@@ -1609,9 +1609,9 @@
   },
   {
     "id": 230,
-    "question": "Which sentence best fits a ‘Find someone who’ activity with 'got back'?",
-    "options": ["Find someone who got back the book.", "Find someone who got back from a holiday recently.", "Find someone who got back with someone.", "Find someone who got back to sleep."],
-    "answer": "Find someone who got back from a holiday recently."
+    "question": "After all he said, he ____________ his ex! Can you believe it!",
+    "options": ["looked back", "looked up to", "ran out of", "got back with"],
+    "answer": "got back with"
   },
   {
     "id": 231,
