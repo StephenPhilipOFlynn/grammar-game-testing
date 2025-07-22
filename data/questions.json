@@ -548,7 +548,7 @@
     {
       "id": 52,
       "question": "He __________ all the documents before the meeting started.",
-      "options": ["had prepared", "was preparing", "has prepared", "prepared"],
+      "options": ["had prepared", "was preparing", "has prepared", "preparing"],
       "answer": "had prepared"
     },
     {
@@ -800,7 +800,7 @@
     {
     "id": 94,
     "question": "I wanted to go to the cinema but I couldn't. I _____ studying for the test we had on Monday.",
-    "options": ["must", "was", "been", "am"],
+    "options": ["must", "was", "been", "have"],
     "answer": "was"
     },
     {
@@ -1058,7 +1058,7 @@
   {
   "id": 137,
   "question": "Can you ___ my dog while I’m away for the weekend?",
-  "options": ["look after", "pick up", "find out", "give up"],
+  "options": ["look after", "get over", "find out", "give up"],
   "answer": "look after"
   },
   {
@@ -1111,8 +1111,8 @@
   },
   {
   "id": 146,
-  "question": "He ___ his old friends when he moved back to town.",
-  "options": ["caught up with", "looked after", "broke down", "gave up"],
+  "question": "He ___ his old friends when he moved back to his hometown.",
+  "options": ["caught up with", "looked down", "broke down", "gave up"],
   "answer": "caught up with"
   }, 
   {
@@ -1586,7 +1586,7 @@
   {
     "id": 226,
     "question": "Their car is not back yet. They __________ stayed later at the party.",
-    "options": ["could", "should have", "must have", "Might"],
+    "options": ["could", "should have", "must have", "might"],
     "answer": "must have"
   },
   {
