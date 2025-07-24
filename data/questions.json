@@ -24,14 +24,14 @@
     },
     {
       "id": 3,
-      "question": "Select the correct use of the present perfect:",
+      "question": "Can I play? I ___________ my homework",
       "options": [
-        "I have finished my homework.",
-        "I am finished my homework.",
-        "I do finished my homework.",
-        "I has finished my homework."
+        "has finished",
+        "finishing",
+        "be finished",
+        "have finished"
       ],
-      "answer": "I have finished my homework."
+      "answer": "have finished"
     },
     {
       "id": 4,
@@ -290,10 +290,10 @@
       "id": 27,
       "question": "He ___ English for six months now.",
       "options": [
-        "has studied",
-        "is studying",
+        "has study",
+        "has been studied",
         "has been studying",
-        "studied"
+        "is study"
       ],
       "answer": "has been studying"
     },
@@ -1129,7 +1129,7 @@
   },
   {
   "id": 149,
-  "question": "IDIOMS. Oops! She let the ________ out of the bag and ruined the surprise.",
+  "question": "She let the ________ out of the bag and ruined the surprise party.",
   "options": ["dog", "mouse", "cat", "rat"],
   "answer": "cat"
   },
@@ -1351,8 +1351,8 @@
   },
   {
     "id": 186,
-    "question": "PREPOSITIONS. He’s good ___ cooking.",
-    "options": ["in", "at", "with", "to"],
+    "question": "He’s good ___ cooking. His meatballs were delicious",
+    "options": ["in", "at", "on", "to"],
     "answer": "at"
   },
   {
@@ -1387,7 +1387,7 @@
   },
   {
     "id": 192,
-    "question": "PREPOSITIONS. We’re worried ___ the results of the test.",
+    "question": "We’re worried ___ the results of the test.",
     "options": ["for", "about", "off", "on"],
     "answer": "about"
   },
@@ -1423,7 +1423,7 @@
   },
   {
     "id": 199,
-    "question": "Which prefix means “too much”?",
+    "question": "Which prefix in English normally means “too much”?",
     "options": ["mis-", "under-", "over-", "re-"],
     "answer": "over-"
   },
