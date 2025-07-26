@@ -1675,6 +1675,186 @@
       "It had arrived safely."
     ],
     "answer": "It would have arrived safely."
+  },
+  {
+    "id": 239,
+    "question": "Which word is a synonym for 'confused'?",
+    "options": ["puzzled", "certain", "confident", "focused"],
+    "answer": "puzzled"
+  },
+  {
+    "id": 240,
+    "question": "Which word is a synonym for 'relieved'?",
+    "options": ["anxious", "thankful", "guilty", "angry"],
+    "answer": "thankful"
+  },
+  {
+    "id": 241,
+    "question": "Which word is a synonym for 'proud'?",
+    "options": ["ashamed", "satisfied", "nervous", "angry"],
+    "answer": "satisfied"
+  },
+  {
+    "id": 242,
+    "question": "Which word is a synonym for 'frustrated'?",
+    "options": ["relaxed", "annoyed", "excited", "bored"],
+    "answer": "annoyed"
+  },
+  {
+    "id": 243,
+    "question": "Which word is a synonym for 'nervous'?",
+    "options": ["calm", "confident", "anxious", "happy"],
+    "answer": "anxious"
+  },
+  {
+    "id": 244,
+    "question": "Which word is a synonym for 'jealous'?",
+    "options": ["envious", "generous", "trusting", "grateful"],
+    "answer": "envious"
+  },
+  {
+    "id": 245,
+    "question": "Which word is a synonym for 'grateful'?",
+    "options": ["thankful", "greedy", "lazy", "upset"],
+    "answer": "thankful"
+  },
+  {
+    "id": 246,
+    "question": "Which word is a synonym for 'upset'?",
+    "options": ["happy", "calm", "sad", "sleepy"],
+    "answer": "sad"
+  },
+  {
+    "id": 247,
+    "question": "Which word is a synonym for 'embarrassed'?",
+    "options": ["ashamed", "proud", "hopeful", "serious"],
+    "answer": "ashamed"
+  },
+  {
+    "id": 248,
+    "question": "Which word is a synonym for 'disappointed'?",
+    "options": ["excited", "let down", "amazed", "interested"],
+    "answer": "let down"
+  },
+  {
+    "id": 249,
+    "question": "Which word is a synonym for 'reliable'?",
+    "options": ["trustworthy", "funny", "strict", "lazy"],
+    "answer": "trustworthy"
+  },
+  {
+    "id": 250,
+    "question": "Which word is a synonym for 'generous'?",
+    "options": ["kind", "greedy", "mean", "selfish"],
+    "answer": "kind"
+  },
+  {
+    "id": 251,
+    "question": "Which word is a synonym for 'lazy'?",
+    "options": ["hardworking", "careless", "inactive", "busy"],
+    "answer": "inactive"
+  },
+  {
+    "id": 252,
+    "question": "Which word is a synonym for 'ambitious'?",
+    "options": ["motivated", "tired", "relaxed", "silly"],
+    "answer": "motivated"
+  },
+  {
+    "id": 253,
+    "question": "Which word is a synonym for 'honest'?",
+    "options": ["truthful", "jealous", "shy", "clever"],
+    "answer": "truthful"
+  },
+  {
+    "id": 254,
+    "question": "Which phrasal verb means 'stop trying'?",
+    "options": ["give up", "take off", "look after", "turn off"],
+    "answer": "give up"
+  },
+  {
+    "id": 255,
+    "question": "Which phrasal verb means 'join or participate'?",
+    "options": ["take part", "make up", "put away", "give in"],
+    "answer": "take part"
+  },
+  {
+    "id": 256,
+    "question": "Which phrasal verb means 'care for someone or something'?",
+    "options": ["look after", "run out", "set up", "go away"],
+    "answer": "look after"
+  },
+  {
+    "id": 257,
+    "question": "Which phrasal verb means 'start a business or project'?",
+    "options": ["set up", "give away", "take up", "break down"],
+    "answer": "set up"
+  },
+  {
+    "id": 258,
+    "question": "Which phrasal verb means 'handle a problem or situation'?",
+    "options": ["deal with", "give back", "look up", "go off"],
+    "answer": "deal with"
+  },
+  {
+    "id": 259,
+    "question": "Which word is connected to getting help or guidance?",
+    "options": ["advice", "journey", "responsibility", "achievement"],
+    "answer": "advice"
+  },
+  {
+    "id": 260,
+    "question": "Which word means a long trip or travel experience?",
+    "options": ["journey", "duty", "task", "lesson"],
+    "answer": "journey"
+  },
+  {
+    "id": 261,
+    "question": "Which word means something difficult that you succeed in doing?",
+    "options": ["achievement", "mistake", "risk", "effort"],
+    "answer": "achievement"
+  },
+  {
+    "id": 262,
+    "question": "Which word means something you must do or take care of?",
+    "options": ["responsibility", "vacation", "choice", "adventure"],
+    "answer": "responsibility"
+  },
+  {
+    "id": 263,
+    "question": "Which word means what you think about something?",
+    "options": ["opinion", "fact", "lie", "question"],
+    "answer": "opinion"
+  },
+  {
+    "id": 264,
+    "question": "Which word is something that tells you when and where to be?",
+    "options": ["schedule", "agenda", "alarm", "calendar"],
+    "answer": "schedule"
+  },
+  {
+    "id": 265,
+    "question": "Which word means to get better at something?",
+    "options": ["improve", "decline", "forget", "ignore"],
+    "answer": "improve"
+  },
+  {
+    "id": 266,
+    "question": "Which word means something difficult that tests your ability?",
+    "options": ["challenge", "game", "habit", "rule"],
+    "answer": "challenge"
+  },
+  {
+    "id": 267,
+    "question": "Which word means a typical or usual amount?",
+    "options": ["average", "maximum", "rare", "minimum"],
+    "answer": "average"
+  },
+  {
+    "id": 268,
+    "question": "Which word means something has a good chance of happening?",
+    "options": ["likely", "random", "dangerous", "impossible"],
+    "answer": "likely"
   }
 ]
 }
