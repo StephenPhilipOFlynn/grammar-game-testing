@@ -530,7 +530,7 @@
     },
     {
       "id": 49,
-      "question": "Do you mind __________ the window?",
+      "question": "Would you mind __________ the window?",
       "options": [
         "to close",
         "closing",
@@ -1117,13 +1117,13 @@
   }, 
   {
   "id": 147,
-  "question": "IDIOMS. Come on, this is easy – this exercise is a piece of ________.",
+  "question": "Come on, this is easy – this exercise is a piece of ________.",
   "options": ["bread", "cake", "nut", "jam"],
   "answer": "cake"
   },
   {
   "id": 148,
-  "question": "IDIOMS. He told a silly joke to ________ the ice at the party.",
+  "question": "He told a silly joke to ________ the ice at the party.",
   "options": ["break", "crack", "melt", "smash"],
   "answer": "break"
   },
@@ -1135,115 +1135,115 @@
   },
   {
   "id": 150,
-  "question": "IDIOMS. I bought food and picked up my dry cleaning – two birds, one ________.",
+  "question": "I bought food and picked up my dry cleaning – two birds, one ________.",
   "options": ["stone", "trip", "plan", "bag"],
   "answer": "stone"
   },
   {
   "id": 151,
-  "question": "IDIOMS. I’m not feeling great today – a bit under the ________.",
+  "question": "I’m not feeling great today – a bit under the ________.",
   "options": ["weather", "blanket", "bed", "cloud"],
   "answer": "weather"
   },
   {
   "id": 152,
-  "question": "IDIOMS. Come on, ________ the beans! What did they say?",
+  "question": "Come on, ________ the beans! What did they say?",
   "options": ["drop", "spill", "throw", "cook"],
   "answer": "spill"
   },
   {
   "id": 153,
-  "question": "IDIOMS. That bag costs an arm and a ________!",
+  "question": "That bag costs an arm and a ________!",
   "options": ["leg", "neck", "toe", "shoe"],
   "answer": "leg"
   },
   {
   "id": 154,
-  "question": "IDIOMS. I have to go to the dentist tomorrow – time to bite the ________.",
+  "question": "I have to go to the dentist tomorrow – time to bite the ________.",
   "options": ["bullet", "apple", "belt", "button"],
   "answer": "bullet"
   },
   {
   "id": 155,
-  "question": "IDIOMS. We only see them once in a blue ________.",
+  "question": "We only see them once in a blue ________.",
   "options": ["sky", "ocean", "moon", "night"],
   "answer": "moon"
   },
   {
   "id": 156,
-  "question": "IDIOMS. She stayed up late finishing her project – really burned the midnight ________.",
+  "question": "She stayed up late finishing her project – really burning the midnight ________.",
   "options": ["oil", "coffee", "lamp", "sheets"],
   "answer": "oil"
   },
   {
   "id": 157,
-  "question": "IDIOMS. Now I’ve done my part – the ball is in your ________.",
+  "question": "Now I’ve done my part – the ball is in your ________.",
   "options": ["court", "field", "hands", "house"],
   "answer": "court"
   },
   {
   "id": 158,
-  "question": "IDIOMS. She really hit the ________ on the head with that comment.",
+  "question": "She really hit the ________ on the head with that assessment.",
   "options": ["nail", "hammer", "thumb", "target"],
   "answer": "nail"
   },
   {
   "id": 159,
-  "question": "IDIOMS. Our plan didn’t work – it’s back to the ________ board.",
+  "question": "That plan didn’t work – it’s back to the ________ board.",
   "options": ["drawing", "planning", "chess", "score"],
   "answer": "drawing"
   },
   {
     "id": 160,
-    "question": "MODALS. He’s not here – he ________ forgotten about the meeting.",
-    "options": ["will have", "must have", "should have", "could"],
+    "question": "He’s not here – he ________ forgotten about the meeting.",
+    "options": ["might", "must have", "should have", "could"],
     "answer": "must have"
   },
   {
     "id": 161,
-    "question": "MODALS. You look tired – you ________ gone to bed earlier.",
+    "question": "You look tired – you ________ gone to bed earlier.",
     "options": ["could", "should have", "may", "must have"],
     "answer": "should have"
   },
   {
     "id": 162,
-    "question": "MODALS. I can’t believe she didn’t say goodbye. She ________ been upset.",
+    "question": "I can’t believe she didn’t say goodbye. She ________ been upset.",
     "options": ["should", "must have", "has", "could"],
     "answer": "must have"
   },
   {
     "id": 163,
-    "question": "MODALS. He ________ caught the earlier bus if he had left on time.",
+    "question": "He ________ caught the earlier bus if he had left on time.",
     "options": ["should", "might", "must have", "could have"],
     "answer": "could have"
   },
   {
     "id": 164,
-    "question": "MODALS. That was so dangerous – you ________ died!",
+    "question": "That was so dangerous – you ________ died!",
     "options": ["could have", "should have", "must", "can have"],
     "answer": "could have"
   },
   {
     "id": 165,
-    "question": "MODALS. The lights were on all night – someone ________ left them on.",
+    "question": "The lights were on all night – someone ________ left them on.",
     "options": ["had", "should have", "must have", "could"],
     "answer": "must have"
   },
   {
     "id": 166,
-    "question": "MODALS. It was a mistake – I ________ checked the email before sending it.",
+    "question": "It was a mistake – I ________ checked the email before sending it.",
     "options": ["must", "should have", "might", "could have"],
     "answer": "should have"
   },
   {
     "id": 167,
-    "question": "MODALS. She ________ known about the change – she looked so surprised.",
+    "question": "She ________ known about the change – she looked so surprised.",
     "options": ["could have", "must have", "can’t have", "should have"],
     "answer": "can’t have"
   },
   {
     "id": 168,
-    "question": "DEDUCTIONS. I didn’t see him in the photo – he ________ been there.",
+    "question": "I didn’t see him in the photo – he ________ been there.",
     "options": ["must", "wasn't", "mightn't have", "might"],
     "answer": "mightn't have"
   },
@@ -1255,19 +1255,19 @@
   },
   {
     "id": 170,
-    "question": "MODALS. He failed the exam. He ________ studied more.",
+    "question": "He failed the exam. He ________ studied more.",
     "options": ["must", "should have", "could", "can have"],
     "answer": "should have"
   },
   {
     "id": 171,
-    "question": "MODALS. I can't believe she passed! She ________ worked really hard.",
+    "question": "I can't believe she passed! She ________ worked really hard.",
     "options": ["might not have", "should have", "must have", "could"],
     "answer": "must have"
   },
   {
     "id": 172,
-    "question": "MODALS. They ________ gone out already – the house is empty.",
+    "question": "They ________ gone out already – the house is empty.",
     "options": ["must have", "could", "might", "should"],
     "answer": "must have"
   },
@@ -1285,67 +1285,67 @@
   },
   {
     "id": 175,
-    "question": "PREPOSITIONS. It depends ___ the weather.",
+    "question": "It depends ___ the weather.",
     "options": ["at", "on", "in", "to"],
     "answer": "on"
   },
   {
     "id": 176,
-    "question": "PREPOSITIONS. This book belongs ___ me.",
+    "question": "This book belongs ___ me.",
     "options": ["for", "with", "to", "at"],
     "answer": "to"
   },
   {
     "id": 177,
-    "question": "PREPOSITIONS. She listens ___ music every morning.",
+    "question": "She listens ___ music every morning.",
     "options": ["on", "off", "to", "at"],
     "answer": "to"
   },
   {
     "id": 178,
-    "question": "PREPOSITIONS. He apologised ___ being late.",
+    "question": "He apologised ___ being late.",
     "options": ["on", "to", "for", "off"],
     "answer": "for"
   },
   {
     "id": 179,
-    "question": "PREPOSITIONS. We talked ___ our weekend plans.",
+    "question": "We talked ___ our weekend plans.",
     "options": ["in", "about", "on", "to"],
     "answer": "about"
   },
   {
     "id": 180,
-    "question": "PREPOSITIONS. I agree ___ your opinion.",
+    "question": "I agree ___ your opinion.",
     "options": ["on", "to", "with", "in"],
     "answer": "with"
   },
   {
     "id": 181,
-    "question": "PREPOSITIONS. She applied ___ the job yesterday.",
+    "question": "She applied ___ the job yesterday.",
     "options": ["to", "with", "on", "for"],
     "answer": "for"
   },
   {
     "id": 182,
-    "question": "PREPOSITIONS. They laughed ___ his joke.",
+    "question": "They laughed ___ his Dad joke.",
     "options": ["to", "at", "on", "about"],
     "answer": "at"
   },
   {
     "id": 183,
-    "question": "PREPOSITIONS. Don’t worry ___ the exam.",
+    "question": "Don’t worry ___ the exam.",
     "options": ["to", "about", "of", "on"],
     "answer": "about"
   },
   {
     "id": 184,
-    "question": "PREPOSITIONS. He paid ___ the meal before we arrived.",
+    "question": "He had paid ___ the meal before we even arrived.",
     "options": ["at", "on", "to", "for"],
     "answer": "for"
   },
   {
     "id": 185,
-    "question": "PREPOSITIONS. She’s interested ___ photography.",
+    "question": "She’s interested ___ photography.",
     "options": ["on", "in", "with", "at"],
     "answer": "in"
   },
@@ -1357,31 +1357,31 @@
   },
   {
     "id": 187,
-    "question": "PREPOSITIONS. I’m afraid ___ spiders.",
+    "question": "I’m afraid ___ spiders.",
     "options": ["with", "of", "about", "from"],
     "answer": "of"
   },
   {
     "id": 188,
-    "question": "PREPOSITIONS. They’re proud ___ their achievements.",
+    "question": "They’re proud ___ their achievements.",
     "options": ["in", "on", "of", "for"],
     "answer": "of"
   },
   {
     "id": 189,
-    "question": "PREPOSITIONS. I’m tired ___ working late every night.",
+    "question": "I’m tired ___ working late every night.",
     "options": ["at", "about", "for", "of"],
     "answer": "of"
   },
   {
     "id": 190,
-    "question": "PREPOSITIONS. She’s angry ___ her brother for taking her phone.",
+    "question": "She’s angry ___ her brother for taking her phone.",
     "options": ["to", "with", "on", "near"],
     "answer": "with"
   },
   {
     "id": 191,
-    "question": "PREPOSITIONS. Paris is famous ___ its food and wine.",
+    "question": "Paris is famous ___ its food and wine.",
     "options": ["about", "of", "to", "for"],
     "answer": "for"
   },
@@ -1393,13 +1393,13 @@
   },
   {
     "id": 193,
-    "question": "PREPOSITIONS. What’s the reason ___ the delay?",
+    "question": "What’s the reason ___ the delay?",
     "options": ["with", "on", "for", "of"],
     "answer": "for"
   },
   {
     "id": 194,
-    "question": "PREPOSITIONS. Is there a connection ___ diet and health?",
+    "question": "Is there a connection ___ diet and health?",
     "options": ["with", "between", "for", "among"],
     "answer": "between"
   },
@@ -1768,7 +1768,7 @@
   },
   {
     "id": 254,
-    "question": "Which phrasal verb means 'stop trying'?",
+    "question": "Which phrasal verb means 'to stop trying'?",
     "options": ["give up", "take off", "look after", "turn off"],
     "answer": "give up"
   },
@@ -1968,11 +1968,11 @@
   },
   {
     "id": 279,
-    "question": "If only I ______ a better job.",
+    "question": "If only I ______ a better job, I could take her to Paris",
     "options": [
       "have",
       "had",
-      "had had",
+      "have had",
       "will have"
     ],
     "answer": "had"
@@ -1990,14 +1990,14 @@
   },
   {
     "id": 281,
-    "question": "I wish you ______ arguing with me all the time!",
+    "question": "I wish you ___________ with me all the time!",
     "options": [
       "stop",
-      "would stop",
+      "would stop arguing",
       "had stopped",
-      "stopped"
+      "would stop to argue"
     ],
-    "answer": "would stop"
+    "answer": "would stop arguing"
   },
   {
     "id": 282,
@@ -2027,7 +2027,7 @@
     "options": [
       "know",
       "knew",
-      "had known",
+      "had knowned",
       "will know"
     ],
     "answer": "knew"
@@ -2059,9 +2059,9 @@
     "question": "I wish I ______ how to play the piano.",
     "options": [
       "know",
-      "knew",
+      "knowed",
       "would know",
-      "had known"
+      "knew"
     ],
     "answer": "knew"
   },
@@ -2075,6 +2075,126 @@
       "would eat"
     ],
     "answer": "would eat"
+  },
+    {
+    "id": 289,
+    "question": "It was __________ to see the skyscrapers of Manhattan for the first time. I was amazed.",
+    "options": ["exhilarated", "reassured", "reassuring", "exhilarating"],
+    "answer": "exhilarating"
+  },
+  {
+    "id": 290,
+    "question": "He felt deeply __________ after forgetting his lines on stage.",
+    "options": ["embarrassing", "ashamed", "humiliated", "humiliating"],
+    "answer": "humiliated"
+  },
+  {
+    "id": 291,
+    "question": "The weather was __________—windy, grey, and miserable.",
+    "options": ["depressing", "bored", "tiring", "depressed"],
+    "answer": "depressing"
+  },
+  {
+    "id": 292,
+    "question": "They were clearly __________ by the number of forms they had to fill out.",
+    "options": ["confused", "boring", "frustrated", "frustrating"],
+    "answer": "frustrated"
+  },
+  {
+    "id": 293,
+    "question": "She gave me a __________ smile that made me feel safe again.",
+    "options": ["comforting", "soothing", "inspired", "comforted"],
+    "answer": "comforting"
+  },
+  {
+    "id": 294,
+    "question": "That was a truly __________ documentary. I learned so much.",
+    "options": ["fascinating", "touched", "challenged", "fascinated"],
+    "answer": "fascinating"
+  },
+  {
+    "id": 295,
+    "question": "He looked __________ after working all night without sleep.",
+    "options": ["exhausted", "depressing", "exhilarating", "exhausting"],
+    "answer": "exhausted"
+  },
+  {
+    "id": 296,
+    "question": "The crying baby on the train was incredibly __________.",
+    "options": ["annoyed", "disturbed", "irritating", "irritated"],
+    "answer": "irritating"
+  },
+  {
+    "id": 297,
+    "question": "She was __________ by the kindness of a stranger who helped her.",
+    "options": ["moved", "encouraging", "gratified", "moving"],
+    "answer": "moved"
+  },
+  {
+    "id": 298,
+    "question": "The news was so __________ that he had to sit down to process it.",
+    "options": ["shocking", "horrified", "troubling", "shocked"],
+    "answer": "shocking"
+  },
+  {
+    "id": 299,
+    "question": "He was completely __________ by the noise and chaos.",
+    "options": ["overwhelmed", "boring", "alarming", "overwhelming"],
+    "answer": "overwhelmed"
+  },
+  {
+    "id": 300,
+    "question": "The massage was incredibly __________. I nearly fell asleep.",
+    "options": ["relaxing", "relieved", "amusing", "relaxed"],
+    "answer": "relaxing"
+  },
+  {
+    "id": 301,
+    "question": "They were __________ when the surprise guests arrived.",
+    "options": ["excited", "thrilling", "amused", "exciting"],
+    "answer": "excited"
+  },
+  {
+    "id": 302,
+    "question": "The children found the clown really __________.",
+    "options": ["amused", "boring", "entertaining", "amusing"],
+    "answer": "amusing"
+  },
+  {
+    "id": 303,
+    "question": "I was __________ to hear that they’d cancelled the concert last minute.",
+    "options": ["disappointed", "annoying", "distressing", "disappointing"],
+    "answer": "disappointed"
+  },
+  {
+    "id": 304,
+    "question": "The film was so __________ I had to cover my eyes during some scenes.",
+    "options": ["horrifying", "disturbing", "horrified", "confused"],
+    "answer": "horrifying"
+  },
+  {
+    "id": 305,
+    "question": "After finally completing the project, she felt __________.",
+    "options": ["fulfilled", "challenging", "grateful", "fulfilling"],
+    "answer": "fulfilled"
+  },
+  {
+    "id": 306,
+    "question": "The experience was __________ for everyone involved.",
+    "options": ["troubling", "upsetting", "troubled", "calmed"],
+    "answer": "troubling"
+  },
+  {
+    "id": 307,
+    "question": "He seemed __________ by the lack of clear instructions.",
+    "options": ["confused", "confusing", "encouraging", "puzzled"],
+    "answer": "confused"
+  },
+  {
+    "id": 308,
+    "question": "She was __________ to see how much progress she had made.",
+    "options": ["gratified", "frustrating", "relieving", "grateful"],
+    "answer": "gratified"
   }
 ]
 }
