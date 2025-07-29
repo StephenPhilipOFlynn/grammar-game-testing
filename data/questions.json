@@ -1855,6 +1855,226 @@
     "question": "Which word means something has a good chance of happening?",
     "options": ["likely", "random", "dangerous", "impossible"],
     "answer": "likely"
+  },
+  {
+    "id": 269,
+    "question": "I wish I ______ my umbrella. It's pouring!",
+    "options": [
+      "bring",
+      "brought",
+      "had brought",
+      "would bring"
+    ],
+    "answer": "had brought"
+  },
+  {
+    "id": 270,
+    "question": "Choose the correct sentence for a past regret.",
+    "options": [
+      "I wish I speak to her.",
+      "I wish I had spoken to her.",
+      "I wish I will speak to her.",
+      "If only I speak to her."
+    ],
+    "answer": "I wish I had spoken to her."
+  },
+  {
+    "id": 271,
+    "question": "I wish you ______ so much noise. I'm trying to focus.",
+    "options": [
+      "don't make",
+      "didn't make",
+      "hadn't made",
+      "wouldn't make"
+    ],
+    "answer": "wouldn't make"
+  },
+  {
+    "id": 272,
+    "question": "If only I ______ more confident, I’d speak up.",
+    "options": [
+      "am",
+      "was",
+      "were",
+      "would be"
+    ],
+    "answer": "were"
+  },
+  {
+    "id": 273,
+    "question": "If only she ______ me before making that decision.",
+    "options": [
+      "consulted",
+      "had consulted",
+      "would consult",
+      "was consulting"
+    ],
+    "answer": "had consulted"
+  },
+  {
+    "id": 274,
+    "question": "If only they ______ earlier, they wouldn’t have missed the train.",
+    "options": [
+      "left",
+      "had left",
+      "would leave",
+      "have left"
+    ],
+    "answer": "had left"
+  },
+  {
+    "id": 275,
+    "question": "I wish he ______ talking during the movie.",
+    "options": [
+      "stops",
+      "stopped",
+      "had stopped",
+      "would stop"
+    ],
+    "answer": "would stop"
+  },
+  {
+    "id": 276,
+    "question": "I wish I ______ law at university.",
+    "options": [
+      "study",
+      "studied",
+      "had studied",
+      "would study"
+    ],
+    "answer": "had studied"
+  },
+  {
+    "id": 277,
+    "question": "I wish I ______ taller.",
+    "options": [
+      "am",
+      "was",
+      "were",
+      "had been"
+    ],
+    "answer": "were"
+  },
+  {
+    "id": 278,
+    "question": "If only it ______ so hot today!",
+    "options": [
+      "isn't",
+      "weren’t",
+      "hadn’t been",
+      "won’t be"
+    ],
+    "answer": "weren’t"
+  },
+  {
+    "id": 279,
+    "question": "If only I ______ a better job.",
+    "options": [
+      "have",
+      "had",
+      "had had",
+      "will have"
+    ],
+    "answer": "had"
+  },
+  {
+    "id": 280,
+    "question": "I wish I ______ that car. It’s always breaking down.",
+    "options": [
+      "don’t buy",
+      "didn’t buy",
+      "hadn’t bought",
+      "won’t buy"
+    ],
+    "answer": "hadn’t bought"
+  },
+  {
+    "id": 281,
+    "question": "I wish you ______ arguing with me all the time!",
+    "options": [
+      "stop",
+      "would stop",
+      "had stopped",
+      "stopped"
+    ],
+    "answer": "would stop"
+  },
+  {
+    "id": 282,
+    "question": "If only I ______ French when I was younger.",
+    "options": [
+      "learned",
+      "had learned",
+      "would learn",
+      "was learning"
+    ],
+    "answer": "had learned"
+  },
+  {
+    "id": 283,
+    "question": "I wish the dog ______ barking every morning at 6 a.m.",
+    "options": [
+      "stops",
+      "would stop",
+      "had stopped",
+      "stopped"
+    ],
+    "answer": "would stop"
+  },
+  {
+    "id": 284,
+    "question": "I wish I ______ the answer.",
+    "options": [
+      "know",
+      "knew",
+      "had known",
+      "will know"
+    ],
+    "answer": "knew"
+  },
+  {
+    "id": 285,
+    "question": "I wish my boss ______ me more often.",
+    "options": [
+      "thanks",
+      "thanked",
+      "would thank",
+      "had thanked"
+    ],
+    "answer": "would thank"
+  },
+  {
+    "id": 286,
+    "question": "If only I ______ to that party last night. I heard it was great!",
+    "options": [
+      "go",
+      "had gone",
+      "would go",
+      "went"
+    ],
+    "answer": "had gone"
+  },
+  {
+    "id": 287,
+    "question": "I wish I ______ how to play the piano.",
+    "options": [
+      "know",
+      "knew",
+      "would know",
+      "had known"
+    ],
+    "answer": "knew"
+  },
+  {
+    "id": 288,
+    "question": "I wish he ______ less junk food. He’s always complaining about his health.",
+    "options": [
+      "eats",
+      "ate",
+      "had eaten",
+      "would eat"
+    ],
+    "answer": "would eat"
   }
 ]
 }
