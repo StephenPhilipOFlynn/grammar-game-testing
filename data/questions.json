@@ -2114,8 +2114,8 @@
   },
   {
     "id": 295,
-    "question": "He looked __________ after working all night without sleep.",
-    "options": ["exhausted", "depressing", "exhilarating", "exhausting"],
+    "question": "He looked __________ after working all night without any sleep.",
+    "options": ["exhausting", "proud", "exhilarating", "exhausted"],
     "answer": "exhausted"
   },
   {
@@ -2126,38 +2126,38 @@
   },
   {
     "id": 297,
-    "question": "She was __________ by the kindness of a stranger who helped her.",
-    "options": ["moved", "encouraging", "gratified", "moving"],
+    "question": "She was __________ by the kindness of a stranger who had helped her.",
+    "options": ["gratified", "encouraging", "moved", "moving"],
     "answer": "moved"
   },
   {
     "id": 298,
     "question": "The news was so __________ that he had to sit down to process it.",
-    "options": ["shocking", "horrified", "troubling", "shocked"],
+    "options": ["worried", "shocking", "amusing", "shocked"],
     "answer": "shocking"
   },
   {
     "id": 299,
     "question": "He was completely __________ by the noise and chaos.",
-    "options": ["overwhelmed", "boring", "alarming", "overwhelming"],
+    "options": ["distressing", "boring", "overwhelmed", "overwhelming"],
     "answer": "overwhelmed"
   },
   {
     "id": 300,
     "question": "The massage was incredibly __________. I nearly fell asleep.",
-    "options": ["relaxing", "relieved", "amusing", "relaxed"],
+    "options": ["relaxed", "relieved", "amusing", "relaxing"],
     "answer": "relaxing"
   },
   {
     "id": 301,
     "question": "They were __________ when the surprise guests arrived.",
-    "options": ["excited", "thrilling", "amused", "exciting"],
+    "options": ["exciting", "bored", "boring", "excited"],
     "answer": "excited"
   },
   {
     "id": 302,
-    "question": "The children found the clown really __________.",
-    "options": ["amused", "boring", "entertaining", "amusing"],
+    "question": "The children found the clown really __________. They laughed a lot",
+    "options": ["amused", "boring", "entertained", "amusing"],
     "answer": "amusing"
   },
   {
@@ -2187,7 +2187,7 @@
   {
     "id": 307,
     "question": "He seemed __________ by the lack of clear instructions.",
-    "options": ["confused", "confusing", "encouraging", "puzzled"],
+    "options": ["confused", "confusing", "encouraging", "enthusiastic"],
     "answer": "confused"
   },
   {
