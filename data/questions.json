@@ -2195,6 +2195,96 @@
     "question": "She was __________ to see how much progress she had made.",
     "options": ["gratified", "frustrating", "relieving", "grateful"],
     "answer": "gratified"
+  },
+  {
+    "id": 321,
+    "question": "She wants to __________ a complaint about the service.",
+    "options": ["do", "make", "get", "made"],
+    "answer": "make"
+  },
+  {
+    "id": 322,
+    "question": "Can you __________ me a favour and close the window?",
+    "options": ["make", "got", "do", "does"],
+    "answer": "do"
+  },
+  {
+    "id": 323,
+    "question": "He finally __________ promoted after years of hard work.",
+    "options": ["does", "made", "got", "get"],
+    "answer": "got"
+  },
+  {
+    "id": 324,
+    "question": "I need to __________ an appointment with the dentist.",
+    "options": ["get", "does", "make", "do"],
+    "answer": "make"
+  },
+  {
+    "id": 325,
+    "question": "We should __________ the shopping before the store closes.",
+    "options": ["does", "do", "get", "make"],
+    "answer": "do"
+  },
+  {
+    "id": 326,
+    "question": "She __________ married last summer.",
+    "options": ["make", "does", "got", "get"],
+    "answer": "got"
+  },
+  {
+    "id": 327,
+    "question": "It’s important to __________ a good impression at an interview.",
+    "options": ["get", "make", "does", "do"],
+    "answer": "make"
+  },
+  {
+    "id": 328,
+    "question": "I still haven’t __________ my homework from yesterday.",
+    "options": ["make", "get", "done", "did"],
+    "answer": "done"
+  },
+  {
+    "id": 329,
+    "question": "We need to __________ ready for the meeting in 10 minutes.",
+    "options": ["make", "get", "got", "do"],
+    "answer": "get"
+  },
+  {
+    "id": 330,
+    "question": "He always __________ excuses when he’s late.",
+    "options": ["gets", "made", "does", "makes"],
+    "answer": "makes"
+  },
+  {
+    "id": 331,
+    "question": "Can you __________ the bed before you leave?",
+    "options": ["does", "do", "make", "get"],
+    "answer": "make"
+  },
+  {
+    "id": 332,
+    "question": "They __________ lost on the way to the hotel.",
+    "options": ["make", "do", "got", "does"],
+    "answer": "got"
+  },
+  {
+    "id": 333,
+    "question": "I’ll __________ the washing-up while you rest.",
+    "options": ["make", "got", "do", "get"],
+    "answer": "do"
+  },
+  {
+    "id": 334,
+    "question": "It took him a while to __________ used to the cold weather.",
+    "options": ["make", "got", "do", "get"],
+    "answer": "get"
+  },
+  {
+    "id": 335,
+    "question": "She’s trying to __________ progress in her career.",
+    "options": ["do", "does", "get", "make"],
+    "answer": "make"
   }
 ]
 }
