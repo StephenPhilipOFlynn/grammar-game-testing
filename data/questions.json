@@ -2285,6 +2285,96 @@
     "question": "She’s trying to __________ progress in her career.",
     "options": ["do", "does", "get", "make"],
     "answer": "make"
+  },
+  {
+    "id": 336,
+    "question": "We need to __________ preparations for the festival.",
+    "options": ["does", "make", "get", "doing"],
+    "answer": "make"
+  },
+  {
+    "id": 337,
+    "question": "He was late because he had to __________ care of his little brother.",
+    "options": ["do", "get", "make", "take"],
+    "answer": "do"
+  },
+  {
+    "id": 338,
+    "question": "I managed to __________ in touch with my old school friend.",
+    "options": ["make", "got", "get", "doing"],
+    "answer": "get"
+  },
+  {
+    "id": 339,
+    "question": "She’s going to __________ a speech at the conference tomorrow.",
+    "options": ["gets", "make", "do", "made"],
+    "answer": "make"
+  },
+  {
+    "id": 340,
+    "question": "You should __________ the most of this opportunity.",
+    "options": ["do", "make", "got", "does"],
+    "answer": "make"
+  },
+  {
+    "id": 341,
+    "question": "He always tries to __________ his best, no matter the situation.",
+    "options": ["does", "get", "do", "making"],
+    "answer": "do"
+  },
+  {
+    "id": 342,
+    "question": "We didn’t __________ the chance to see the exhibition before it closed.",
+    "options": ["get", "got", "make", "doing"],
+    "answer": "get"
+  },
+  {
+    "id": 343,
+    "question": "It’s important to __________ time for yourself to relax.",
+    "options": ["does", "get", "make", "did"],
+    "answer": "make"
+  },
+  {
+    "id": 344,
+    "question": "Can you __________ arrangements for the meeting next week?",
+    "options": ["made", "do", "get", "make"],
+    "answer": "make"
+  },
+  {
+    "id": 345,
+    "question": "She couldn’t __________ her mind up about which dress to buy.",
+    "options": ["get", "make", "does", "doing"],
+    "answer": "make"
+  },
+  {
+    "id": 346,
+    "question": "Let’s __________ a break before we continue.",
+    "options": ["take", "do", "get", "make"],
+    "answer": "take"
+  },
+  {
+    "id": 347,
+    "question": "I’m trying to __________ fit by going to the gym three times a week.",
+    "options": ["get", "make", "doing", "do"],
+    "answer": "get"
+  },
+  {
+    "id": 348,
+    "question": "He promised to __________ an effort to improve his grades.",
+    "options": ["make", "does", "got", "do"],
+    "answer": "make"
+  },
+  {
+    "id": 349,
+    "question": "We have to __________ a decision before Friday.",
+    "options": ["do", "get", "made", "make"],
+    "answer": "make"
+  },
+  {
+    "id": 350,
+    "question": "They are going to __________ business with several new suppliers.",
+    "options": ["do", "make", "got", "doing"],
+    "answer": "do"
   }
 ]
 }
